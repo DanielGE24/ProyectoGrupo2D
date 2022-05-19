@@ -9,7 +9,6 @@ public class Zenitsu : MonoBehaviour
     int contador;
     [SerializeField] TextMeshProUGUI textoContador;
     [HideInInspector] public bool movimiento;
-    Zenitsu player;
 
 
     // Start is called before the first frame update

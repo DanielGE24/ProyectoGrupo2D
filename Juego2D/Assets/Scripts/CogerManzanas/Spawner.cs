@@ -6,48 +6,46 @@ using TMPro;
 public class Spawner : MonoBehaviour
 {
     [SerializeField] GameObject RehenPrefab;
-    [HideInInspector] public float tiempo;
+    float tiempo;
     [SerializeField] TextMeshProUGUI textoTimer;
     Zenitsu player;
+    Destructor contador;
     bool sumarTimer;
+    [SerializeField] TextMeshProUGUI textoVictoria;
+    [SerializeField] GameObject imgnVictoria;
     // Start is called before the first frame update
     void Start()
     {
+        player = GetComponent<Zenitsu>();
+        contador = GetComponent<Destructor>();
         sumarTimer = true;
         StartCoroutine(SpawnRehenes());
-        player.GetComponent<Zenitsu>();
-
     }
 
     // Update is called once per frame
     void Update()
     {
+        tiempo += 1 * Time.deltaTime;
         if (sumarTimer == true)
         {
-        textoTimer.text = "Time: " + Mathf.Round(tiempo);
-
+            textoTimer.text = "Time: " + Mathf.Round(tiempo);
         }
-
-
-        tiempo += 1 * Time.deltaTime;
-        if (tiempo >= 60 ||player.movimiento == false) //&& contadorMuertes <= 5)
+       
+        if (tiempo >= 60 && contador.contadorMuertes <= 15)
         {
-
             player.movimiento = false;
-            StopAllCoroutines();
             sumarTimer = false;
-            tiempo = 60;
-            textoTimer.text = "Time: 60";
-            //ganas
-            //capar el movimiento
+            imgnVictoria.SetActive(true);
+            textoVictoria.text = "Has ganado";
+            //StopAllCoroutines();            
         }
-        //else if (contadorMuertes >= 5)
+        //if (tiempo <= 60 && contador.contadorMuertes >= 5)
         //{
+        //    player.movimiento = false;
+        //    sumarTimer = false;
         //    //pierdes
-        //    //capar movimiento
-        //    StopAllCoroutines();
         //}
-        
+
     }
     public IEnumerator SpawnRehenes()
     {

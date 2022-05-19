@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class Destructor : MonoBehaviour
 {
-    int contadorMuertes=0;
-    Zenitsu player;
+    public int contadorMuertes;
     // Start is called before the first frame update
     void Start()
     {
-        
+        contadorMuertes = 0;
     }
 
     // Update is called once per frame
@@ -22,18 +21,7 @@ public class Destructor : MonoBehaviour
         if (collision.gameObject.CompareTag("Rehen"))
         {
             Destroy(collision.gameObject);
-            contadorMuertes++;
-            if (contadorMuertes >=5)
-            {
-                //pierdes
-                player.movimiento = false;
-                //dejar de instanciar rehenes
-            }
-            else if (contadorMuertes <=5) //&& tiempo >=60)
-            {
-                //ganas
-                //capar el movimiento
-            }
+            contadorMuertes++;          
         }
     }
 }
