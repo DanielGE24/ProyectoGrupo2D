@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class Spawner : MonoBehaviour
 {
     [SerializeField] GameObject RehenPrefab;
-    float tiempo;
+    [HideInInspector] public float tiempo;
+    [SerializeField] TextMeshProUGUI textoTimer;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,13 +17,23 @@ public class Spawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        textoTimer.text = "Time: " + Mathf.Round(tiempo);
         tiempo += 1 * Time.deltaTime;
-        if (tiempo <= 60)
+        if (tiempo >= 60) //&& contadorMuertes <= 5)
         {
-            StopAllCoroutines();
+            
+            //ganas
+            //capar el movimiento
         }
+        //else if (contadorMuertes >= 5)
+        //{
+        //    //pierdes
+        //    //capar movimiento
+        //    StopAllCoroutines();
+        //}
+        
     }
-    IEnumerator SpawnRehenes()
+    public IEnumerator SpawnRehenes()
     {
         yield return new WaitForSeconds(5);
         while (tiempo <= 30)
@@ -34,5 +46,6 @@ public class Spawner : MonoBehaviour
             Instantiate(RehenPrefab, new Vector3(Random.Range(-6, 7), 5, 0), Quaternion.identity);
             yield return new WaitForSeconds(0.5f);
         }
+        tiempo = 0;
     }
 }
