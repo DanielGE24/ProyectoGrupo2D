@@ -10,13 +10,15 @@ public class Spawner : MonoBehaviour
     [SerializeField] TextMeshProUGUI textoTimer;
     Zenitsu player;
     bool sumarTimer;
+    Destructor muertes;
     // Start is called before the first frame update
     void Start()
     {
         sumarTimer = true;
         StartCoroutine(SpawnRehenes());
-        player.GetComponent<Zenitsu>();
-
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<Zenitsu>();
+        player.movimiento = false;
+        muertes = GameObject.FindGameObjectWithTag("Destructor").GetComponent<Destructor>();
     }
 
     // Update is called once per frame
@@ -24,34 +26,32 @@ public class Spawner : MonoBehaviour
     {
         if (sumarTimer == true)
         {
-        textoTimer.text = "Time: " + Mathf.Round(tiempo);
-
+            tiempo += 1 * Time.deltaTime;
+            textoTimer.text = "Time: " + Mathf.Round(tiempo);
         }
-
-
-        tiempo += 1 * Time.deltaTime;
-        if (tiempo >= 60 ||player.movimiento == false) //&& contadorMuertes <= 5)
-        {
-
-            player.movimiento = false;
-            StopAllCoroutines();
-            sumarTimer = false;
-            tiempo = 60;
-            textoTimer.text = "Time: 60";
-            //ganas
-            //capar el movimiento
-        }
-        //else if (contadorMuertes >= 5)
-        //{
-        //    //pierdes
-        //    //capar movimiento
-        //    StopAllCoroutines();
-        //}
         
+        if (tiempo >= 60 && muertes.contadorMuertes <= 5)
+        {
+            StopAllCoroutines();
+            player.movimiento = false;
+            sumarTimer = false;
+            player.anim.SetTrigger("Victoria");
+            //ganas
+        }
+        else if (muertes.contadorMuertes >= 5)
+        {
+            StopAllCoroutines();
+            player.movimiento = false;
+            sumarTimer = false;
+            player.anim.SetTrigger("Derrota");
+            //pierdes
+        }
+
     }
     public IEnumerator SpawnRehenes()
     {
         yield return new WaitForSeconds(5);
+        player.movimiento = true;
         while (tiempo <= 30)
         {
             Instantiate(RehenPrefab, new Vector3(Random.Range(-6, 7), 5, 0), Quaternion.identity);

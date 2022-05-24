@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: ce6426fb2ee95514bbdec642a886b57e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4290410778549426816
+    second: Zenitsu_inicio_0
+  - first:
+      213: -313980221242199400
+    second: Zenitsu_inicio_1
+  - first:
+      213: 8965632451483822049
+    second: Zenitsu_inicio_2
+  - first:
+      213: 3129826216679182261
+    second: Zenitsu_inicio_3
+  - first:
+      213: 2206198468983158310
+    second: Zenitsu_inicio_4
+  - first:
+      213: -5720594116416164913
+    second: Zenitsu_inicio_5
+  - first:
+      213: -8820325494093761311
+    second: Zenitsu_inicio_6
+  - first:
+      213: -6408718141091582515
+    second: Zenitsu_inicio_7
+  - first:
+      213: -4833958710137200411
+    second: Zenitsu_inicio_8
+  - first:
+      213: -5006033976709335521
+    second: Zenitsu_inicio_9
+  - first:
+      213: 796534011737654308
+    second: Zenitsu_inicio_10
+  - first:
+      213: 8201201606937777578
+    second: Zenitsu_inicio_11
+  - first:
+      213: 2535942273263980974
+    second: Zenitsu_inicio_12
+  - first:
+      213: -2872189200414922621
+    second: Zenitsu_inicio_14
+  - first:
+      213: 690571386146139559
+    second: Zenitsu_inicio_16
+  - first:
+      213: 3049544809145215239
+    second: Zenitsu_inicio_17
+  - first:
+      213: -8168666957413318689
+    second: Zenitsu_inicio_18
+  - first:
+      213: 4159548609495452934
+    second: Zenitsu_inicio_19
+  - first:
+      213: -5316889087430103817
+    second: Zenitsu_inicio_20
+  - first:
+      213: 717132062564091756
+    second: Zenitsu_inicio_21
+  - first:
+      213: -3944894894431292133
+    second: Zenitsu_inicio_13
+  - first:
+      213: -2270116615136587586
+    second: Zenitsu_inicio_15
+  - first:
+      213: -1462334201422133404
+    second: Zenitsu_inicio_22
+  - first:
+      213: 1001042246547879674
+    second: Zenitsu_inicio_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zenitsu_inicio_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 35
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085ed04e0266574c0800000000000000
+      internalID: -4290410778549426816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 10
+        width: 35
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8923c5ef6a484abf0800000000000000
+      internalID: -313980221242199400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 10
+        width: 35
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7686176335c6c70800000000000000
+      internalID: 8965632451483822049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 10
+        width: 35
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf0edd8c506f6b20800000000000000
+      internalID: 3129826216679182261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 35
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62670cf81ddfd9e10800000000000000
+      internalID: 2206198468983158310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 10
+        width: 35
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb23dac5fd5c90b0800000000000000
+      internalID: -5720594116416164913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 10
+        width: 39
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e43839f1b8e79580800000000000000
+      internalID: -8820325494093761311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 10
+        width: 38
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd62a63ec8af07a0800000000000000
+      internalID: -6408718141091582515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 10
+        width: 41
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0ed5f1a245aecb0800000000000000
+      internalID: -4833958710137200411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 10
+        width: 42
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1634bc0f9ef68ab0800000000000000
+      internalID: -5006033976709335521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 10
+        width: 42
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424c325a67bdd0b00800000000000000
+      internalID: 796534011737654308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 11
+        width: 37
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa593e0e86580d170800000000000000
+      internalID: 8201201606937777578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 11
+        width: 40
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1dbc0cf0a713320800000000000000
+      internalID: 2535942273263980974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 11
+        width: 41
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3882e85c32fe328d0800000000000000
+      internalID: -2872189200414922621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_16
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 11
+        width: 42
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad2a435407659900800000000000000
+      internalID: 690571386146139559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_17
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 11
+        width: 35
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709acb3c8d8225a20800000000000000
+      internalID: 3049544809145215239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_18
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 11
+        width: 35
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf78e28ea013ae80800000000000000
+      internalID: -8168666957413318689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_19
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 11
+        width: 35
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d42fe0c6fa9b930800000000000000
+      internalID: 4159548609495452934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 11
+        width: 35
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fce3998b8d9636b0800000000000000
+      internalID: -5316889087430103817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zenitsu_inicio_21
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 11
+        width: 35
+        height: 58
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c670d26bfc3c3f900800000000000000
+      internalID: 717132062564091756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
