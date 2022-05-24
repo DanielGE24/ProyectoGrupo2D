@@ -622,7 +622,7 @@ TextureImporter:
         x: 30
         y: 1543
         width: 44
-        height: 33
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -643,7 +643,7 @@ TextureImporter:
         x: 192
         y: 1543
         width: 44
-        height: 37
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1078,76 +1078,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tanjiro_29
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 1096
-        width: 51
-        height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1d9cda6efd7a7dd0800000000000000
-      internalID: -2487537312500769509
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tanjiro_30
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 1096
-        width: 48
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54d68801371e16fc0800000000000000
-      internalID: -3503271150802670267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tanjiro_31
-      rect:
-        serializedVersion: 2
-        x: 122
-        y: 1096
-        width: 50
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4bde2bf4b3b9c4800800000000000000
-      internalID: 598023529575935412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Tanjiro_32
       rect:
         serializedVersion: 2
         x: 37
         y: 1052
         width: 56
-        height: 28
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1168,7 +1105,7 @@ TextureImporter:
         x: 96
         y: 1052
         width: 34
-        height: 38
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1189,7 +1126,7 @@ TextureImporter:
         x: 131
         y: 1052
         width: 54
-        height: 24
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1210,7 +1147,7 @@ TextureImporter:
         x: 60
         y: 1003
         width: 36
-        height: 38
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1231,7 +1168,7 @@ TextureImporter:
         x: 97
         y: 1003
         width: 51
-        height: 30
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2029,7 +1966,7 @@ TextureImporter:
         x: 32
         y: 468
         width: 38
-        height: 50
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2680,7 +2617,7 @@ TextureImporter:
         x: 108
         y: 38
         width: 95
-        height: 45
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2701,7 +2638,7 @@ TextureImporter:
         x: 204
         y: 38
         width: 80
-        height: 43
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2722,7 +2659,7 @@ TextureImporter:
         x: 285
         y: 38
         width: 80
-        height: 41
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2764,7 +2701,7 @@ TextureImporter:
         x: 366
         y: 38
         width: 88
-        height: 38
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

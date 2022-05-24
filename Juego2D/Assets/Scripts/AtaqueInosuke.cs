@@ -26,46 +26,51 @@ public class AtaqueInosuke : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        tiempo +=1 * Time.deltaTime;
+        tiempo += 1 * Time.deltaTime;
 
         //---------------------ATAQUE---------------------//
 
         txtContadorTiempo.text = "Tiempo: " + Mathf.Round(tiempo);
-        if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.D))
+        if (poderAtacar == true)
         {
-            if (poderAtacar == true)
+
+            if (Input.GetKeyDown(KeyCode.Space))
             {
-            contadorAtaques++;
-            anim.SetTrigger("ataque");
+                contadorAtaques++;
+                anim.SetTrigger("ataque");
 
             }
+
+
         }
+            txtContadorAtaques.text = "Ataques: " + contadorAtaques;
 
-        txtContadorAtaques.text = "Ataques: " + contadorAtaques;
 
 
-        
 
-        //----------------GANAR O PERDER----------------------/
+            //----------------GANAR O PERDER----------------------/
 
-        if (tiempo>=tiempoMaximo)
-        {
+            if (tiempo >= tiempoMaximo)
+            {
                 tiempo = tiempoMaximo;
                 poderAtacar = false;
-            if (contadorAtaques<10)
-            {
-                hasPerdido.SetActive(true);
-                anim.SetBool("derrota", true);
+                if (contadorAtaques < 10)
+                {
+                    hasPerdido.SetActive(true);
+                    anim.SetBool("derrota", true);
+                }
+
+                else
+                {
+                    hasGanado.SetActive(true);
+                    anim.SetBool("victoria", true);
+                }
             }
 
-            else
-            {
-                hasGanado.SetActive(true);
-                anim.SetBool("victoria", true);
-            }
         }
 
     }
 
-    
-}
+
+
+
