@@ -6,8 +6,7 @@ using TMPro;
 public class Zenitsu : MonoBehaviour
 {
     float h;
-    int contador;
-    [SerializeField] TextMeshProUGUI textoContador;
+    [HideInInspector] public int contador = 0;
     [HideInInspector] public bool movimiento;
     SpriteRenderer sR;
     [HideInInspector] public Animator anim;
@@ -31,9 +30,7 @@ public class Zenitsu : MonoBehaviour
             Movimiento();
         }
 
-        textoContador.text = "X " + contador;
-
-        float ClampedX = Mathf.Clamp(transform.position.x, -6, 6);
+        float ClampedX = Mathf.Clamp(transform.position.x, -5.9f, 5.9f);
         transform.position = new Vector3(ClampedX, -4, 0);
 
     }
@@ -42,7 +39,7 @@ public class Zenitsu : MonoBehaviour
         if (collision.gameObject.CompareTag("Rehen"))
         {
             Destroy(collision.gameObject);
-            contador++;
+            contador++;           
         }
     }
     public void Movimiento()
