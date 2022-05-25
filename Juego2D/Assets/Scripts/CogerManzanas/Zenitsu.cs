@@ -11,12 +11,12 @@ public class Zenitsu : MonoBehaviour
     [HideInInspector] public bool movimiento;
     SpriteRenderer sR;
     [HideInInspector] public Animator anim;
-
+    int velocidad = 10;
+    float cooldown = 1;
 
     // Start is called before the first frame update
     void Start()
     {
-        transform.position = new Vector3(0.06662354f, -4, 0);
         h = 1;
         movimiento = true;
         sR = GetComponent<SpriteRenderer>();
@@ -33,7 +33,7 @@ public class Zenitsu : MonoBehaviour
 
         textoContador.text = "X " + contador;
 
-        float ClampedX = Mathf.Clamp(transform.position.x, -6.5f, 6.5f);
+        float ClampedX = Mathf.Clamp(transform.position.x, -6, 6);
         transform.position = new Vector3(ClampedX, -4, 0);
 
     }
@@ -47,8 +47,9 @@ public class Zenitsu : MonoBehaviour
     }
     public void Movimiento()
     {
+        cooldown -= 1 * Time.deltaTime;
         anim.SetBool("Corriendo", true);
-        transform.Translate(new Vector3(h, 0, 0) * 10 * Time.deltaTime);
+        transform.Translate(new Vector3(h, 0, 0) * velocidad * Time.deltaTime);
         if (h == 1)
         {
             if (Input.GetKeyDown(KeyCode.A) || (Input.GetKeyDown(KeyCode.LeftArrow)))
@@ -68,12 +69,19 @@ public class Zenitsu : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.LeftShift) || Input.GetKeyDown(KeyCode.RightShift))
+      
+        if ( (Input.GetKeyDown(KeyCode.LeftShift) || Input.GetKeyDown(KeyCode.RightShift)) && cooldown <=0)
         {
-            h = h * 2;
+            velocidad = 15;
             anim.SetTrigger("Sprint");
-            h = h / 2;
+            cooldown = 0.6f;
         }
+       
+        if(cooldown <= 0)
+        {
+            velocidad = 10;
+        }
+
 
     }
 }
