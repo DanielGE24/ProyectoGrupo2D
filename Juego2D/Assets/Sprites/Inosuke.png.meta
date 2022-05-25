@@ -1,7 +1,349 @@
 fileFormatVersion: 2
-guid: 260ba311e6ecf66428589e0fe21e3826
+guid: bd9cbd7d683ccf24bb84e4aac2ef2f06
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8402581153374929802
+    second: Tanjiro_0
+  - first:
+      213: -3521811033155565062
+    second: Tanjiro_1
+  - first:
+      213: 6758964414158279778
+    second: Tanjiro_2
+  - first:
+      213: 3499025221936248869
+    second: Tanjiro_3
+  - first:
+      213: -3120146124217850168
+    second: Tanjiro_4
+  - first:
+      213: -1500423639217689658
+    second: Tanjiro_5
+  - first:
+      213: -4315695990342567132
+    second: Tanjiro_6
+  - first:
+      213: 4403338355634351627
+    second: Tanjiro_7
+  - first:
+      213: -6374933581655438290
+    second: Tanjiro_8
+  - first:
+      213: 4702962663445500821
+    second: Tanjiro_9
+  - first:
+      213: -6836072746886879769
+    second: Tanjiro_10
+  - first:
+      213: 8207373532251775475
+    second: Tanjiro_11
+  - first:
+      213: 9115005725777596831
+    second: Tanjiro_12
+  - first:
+      213: 4995780237668058421
+    second: Tanjiro_13
+  - first:
+      213: -8440459182646179421
+    second: Tanjiro_14
+  - first:
+      213: -6939693287615789710
+    second: Tanjiro_15
+  - first:
+      213: 2183198497005551179
+    second: Tanjiro_16
+  - first:
+      213: 693865914370208298
+    second: Tanjiro_17
+  - first:
+      213: 3506507448055714066
+    second: Tanjiro_18
+  - first:
+      213: 9163135778457868825
+    second: Tanjiro_19
+  - first:
+      213: 6432719268010224251
+    second: Tanjiro_20
+  - first:
+      213: 3848124262272749504
+    second: Tanjiro_21
+  - first:
+      213: -4918126156654007296
+    second: Tanjiro_22
+  - first:
+      213: 4914301194304541715
+    second: Tanjiro_23
+  - first:
+      213: -1308603021929117191
+    second: Tanjiro_24
+  - first:
+      213: 2353047873947932220
+    second: Tanjiro_25
+  - first:
+      213: 169951586593677554
+    second: Tanjiro_26
+  - first:
+      213: -6671975569864650215
+    second: Tanjiro_27
+  - first:
+      213: 1404933080538359783
+    second: Tanjiro_28
+  - first:
+      213: -2487537312500769509
+    second: Tanjiro_29
+  - first:
+      213: -3503271150802670267
+    second: Tanjiro_30
+  - first:
+      213: 598023529575935412
+    second: Tanjiro_31
+  - first:
+      213: -1328075210524261413
+    second: Tanjiro_32
+  - first:
+      213: -5894046768083471498
+    second: Tanjiro_33
+  - first:
+      213: -2215114263941070123
+    second: Tanjiro_34
+  - first:
+      213: 136839053860741895
+    second: Tanjiro_35
+  - first:
+      213: 7396506921855058332
+    second: Tanjiro_36
+  - first:
+      213: -8819606595372648035
+    second: Tanjiro_37
+  - first:
+      213: -3792344007344574938
+    second: Tanjiro_38
+  - first:
+      213: -3111868365285344779
+    second: Tanjiro_39
+  - first:
+      213: -947771080187500313
+    second: Tanjiro_40
+  - first:
+      213: -2277398904029030173
+    second: Tanjiro_41
+  - first:
+      213: 8362321196021975703
+    second: Tanjiro_42
+  - first:
+      213: -7538302833419890132
+    second: Tanjiro_43
+  - first:
+      213: 2904032421364733597
+    second: Tanjiro_44
+  - first:
+      213: -8989531779275741771
+    second: Tanjiro_45
+  - first:
+      213: -2236632312786141011
+    second: Tanjiro_46
+  - first:
+      213: 1600924594524616687
+    second: Tanjiro_47
+  - first:
+      213: 75746485779829917
+    second: Tanjiro_48
+  - first:
+      213: -7415242339392869934
+    second: Tanjiro_49
+  - first:
+      213: 6908765880650188572
+    second: Tanjiro_50
+  - first:
+      213: 867495974184680688
+    second: Tanjiro_51
+  - first:
+      213: 1358049787623118224
+    second: Tanjiro_52
+  - first:
+      213: -1261662081806881774
+    second: Tanjiro_53
+  - first:
+      213: -5975200507455232788
+    second: Tanjiro_54
+  - first:
+      213: 5312504983808061714
+    second: Tanjiro_55
+  - first:
+      213: -7641175950902350200
+    second: Tanjiro_56
+  - first:
+      213: -2226473252651686961
+    second: Tanjiro_57
+  - first:
+      213: -2835366343487886120
+    second: Tanjiro_58
+  - first:
+      213: 2745847137256202099
+    second: Tanjiro_59
+  - first:
+      213: 1062467588161139265
+    second: Tanjiro_60
+  - first:
+      213: 7075587037130256915
+    second: Tanjiro_61
+  - first:
+      213: -8129947859755858828
+    second: Tanjiro_62
+  - first:
+      213: -3602602279829516881
+    second: Tanjiro_63
+  - first:
+      213: -3798886379587270599
+    second: Tanjiro_64
+  - first:
+      213: -3502564202993486206
+    second: Tanjiro_65
+  - first:
+      213: -4362348332887002161
+    second: Tanjiro_66
+  - first:
+      213: -185991144117569724
+    second: Tanjiro_67
+  - first:
+      213: -8382444743228747085
+    second: Tanjiro_68
+  - first:
+      213: 1520267632453924315
+    second: Tanjiro_69
+  - first:
+      213: 9114710116545583654
+    second: Tanjiro_70
+  - first:
+      213: 292548772491264850
+    second: Tanjiro_71
+  - first:
+      213: -1761445948556124773
+    second: Tanjiro_72
+  - first:
+      213: -9134435105973940612
+    second: Tanjiro_73
+  - first:
+      213: 6571797653325811979
+    second: Tanjiro_74
+  - first:
+      213: 6493520039029013171
+    second: Tanjiro_75
+  - first:
+      213: -7760561380211296005
+    second: Tanjiro_76
+  - first:
+      213: 7192365912803538321
+    second: Tanjiro_77
+  - first:
+      213: 3052625738006727278
+    second: Tanjiro_78
+  - first:
+      213: 3123108827611973681
+    second: Tanjiro_79
+  - first:
+      213: -4531233261283532835
+    second: Tanjiro_80
+  - first:
+      213: 7521898365215051468
+    second: Tanjiro_81
+  - first:
+      213: 5436872870837963211
+    second: Tanjiro_82
+  - first:
+      213: -7933626422391249879
+    second: Tanjiro_83
+  - first:
+      213: 7345246652931955397
+    second: Tanjiro_84
+  - first:
+      213: 7544018430042953393
+    second: Tanjiro_85
+  - first:
+      213: -382422610018579206
+    second: Tanjiro_86
+  - first:
+      213: 2201959239467238620
+    second: Tanjiro_87
+  - first:
+      213: 7591383379062591866
+    second: Tanjiro_88
+  - first:
+      213: -2027618350176916801
+    second: Tanjiro_89
+  - first:
+      213: 7749249060191859249
+    second: Tanjiro_90
+  - first:
+      213: -92008745958678494
+    second: Tanjiro_91
+  - first:
+      213: 4115802926107985091
+    second: Tanjiro_92
+  - first:
+      213: 6332357761781201568
+    second: Tanjiro_93
+  - first:
+      213: -2598292662878972865
+    second: Tanjiro_95
+  - first:
+      213: -7411164568319576304
+    second: Tanjiro_96
+  - first:
+      213: -1296053600847282093
+    second: Tanjiro_97
+  - first:
+      213: -1028043534830965024
+    second: Tanjiro_100
+  - first:
+      213: 1730185493833829766
+    second: Tanjiro_101
+  - first:
+      213: 5200647607837868656
+    second: Tanjiro_103
+  - first:
+      213: -3276656345267826633
+    second: Tanjiro_109
+  - first:
+      213: 7549216557435190615
+    second: Tanjiro_112
+  - first:
+      213: 783694875819663768
+    second: Tanjiro_116
+  - first:
+      213: -8770633716539873140
+    second: Tanjiro_118
+  - first:
+      213: -7882273880731866433
+    second: Tanjiro_120
+  - first:
+      213: 2186014843077179570
+    second: Tanjiro_122
+  - first:
+      213: -3454044983370162015
+    second: Tanjiro_123
+  - first:
+      213: -807681287167734534
+    second: Tanjiro_124
+  - first:
+      213: -4444353146270146819
+    second: Tanjiro_125
+  - first:
+      213: 7259104108460561101
+    second: Tanjiro_126
+  - first:
+      213: -8981846067830372059
+    second: Tanjiro_127
+  - first:
+      213: -7635078971275432994
+    second: Tanjiro_129
+  - first:
+      213: 8544196385302109225
+    second: Tanjiro_130
+  - first:
+      213: 8143089256864512780
+    second: Tanjiro_131
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +374,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,12 +383,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +410,55 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +467,2275 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tanjiro_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1656
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cf1b4b5f8046b80800000000000000
+      internalID: -8402581153374929802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1656
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af906b25683002fc0800000000000000
+      internalID: -3521811033155565062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1656
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264196bf25aaccd50800000000000000
+      internalID: 6758964414158279778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1670
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52874a596e80f8030800000000000000
+      internalID: 3499025221936248869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1656
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6eeaa91a303b4d0800000000000000
+      internalID: -3120146124217850168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1601
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba4d356ac6d2be0800000000000000
+      internalID: -1500423639217689658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1601
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bbd01cc519b14c0800000000000000
+      internalID: -4315695990342567132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1543
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e207197eccb1d30800000000000000
+      internalID: 4403338355634351627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1543
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c08beeeafa787a0800000000000000
+      internalID: -6374933581655438290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1486
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593189200a7444140800000000000000
+      internalID: 4702962663445500821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1486
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e524174e046121a0800000000000000
+      internalID: -6836072746886879769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1486
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f16fc83eb276e170800000000000000
+      internalID: 8207373532251775475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1486
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9110aa0a610f7e70800000000000000
+      internalID: 9115005725777596831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1429
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5350f1a48a3945540800000000000000
+      internalID: 4995780237668058421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1429
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9c035c7177dda80800000000000000
+      internalID: -8440459182646179421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1429
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2758f7519b141bf90800000000000000
+      internalID: -6939693287615789710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1384
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ebe2847774c4e10800000000000000
+      internalID: 2183198497005551179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1384
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22b9c37f5b11a900800000000000000
+      internalID: 693865914370208298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1384
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2115f9b12fd99a030800000000000000
+      internalID: 3506507448055714066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1384
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a57af217ff92f70800000000000000
+      internalID: 9163135778457868825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1343
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a6f8d971c954950800000000000000
+      internalID: 6432719268010224251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1343
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf4458d0a8476530800000000000000
+      internalID: 3848124262272749504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1276
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca410615e4fbbb0800000000000000
+      internalID: -4918126156654007296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1283
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314dccd26ea133440800000000000000
+      internalID: 4914301194304541715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1276
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f989ed1c78e6dde0800000000000000
+      internalID: -1308603021929117191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1223
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36972a0394b7a020800000000000000
+      internalID: 2353047873947932220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1223
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f02eeb411acb5200800000000000000
+      internalID: 169951586593677554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1150
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121220a1916863a0800000000000000
+      internalID: -6671975569864650215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1150
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e72fae61335f7310800000000000000
+      internalID: 1404933080538359783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1052
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd303b9e1aab19de0800000000000000
+      internalID: -1328075210524261413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1052
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67378d241b3243ea0800000000000000
+      internalID: -5894046768083471498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1052
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d244e820555241e0800000000000000
+      internalID: -2215114263941070123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1003
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70325ccf46626e100800000000000000
+      internalID: 136839053860741895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1003
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9183e76bdba5a660800000000000000
+      internalID: 7396506921855058332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1003
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99fe10a7867a9580800000000000000
+      internalID: -8819606595372648035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1003
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e2520d733ee5bc0800000000000000
+      internalID: -3792344007344574938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 945
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9346b853c60d4d0800000000000000
+      internalID: -3111868365285344779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 945
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8290d5937d8d2f0800000000000000
+      internalID: -947771080187500313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_41
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 889
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e85c7153cd0560e0800000000000000
+      internalID: -2277398904029030173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 889
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a0c9282deec0470800000000000000
+      internalID: 8362321196021975703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_43
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 889
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22dfac3381926790800000000000000
+      internalID: -7538302833419890132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 889
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9699abd9123d4820800000000000000
+      internalID: 2904032421364733597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_45
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 819
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b52f2fa974ce3380800000000000000
+      internalID: -8989531779275741771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_46
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 819
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0c83ff2c2e5f0e0800000000000000
+      internalID: -2236632312786141011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 819
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe773d8cf60a73610800000000000000
+      internalID: 1600924594524616687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 819
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9414e9070b1d0100800000000000000
+      internalID: 75746485779829917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 819
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d92d054164c71990800000000000000
+      internalID: -7415242339392869934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_50
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 819
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c174e78d6fdd0ef50800000000000000
+      internalID: 6908765880650188572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_51
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 819
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcfb590ef6f90c00800000000000000
+      internalID: 867495974184680688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 765
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095129a2613c8d210800000000000000
+      internalID: 1358049787623118224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 765
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c225b650dad7ee0800000000000000
+      internalID: -1261662081806881774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 765
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4a563ebc2d31da0800000000000000
+      internalID: -5975200507455232788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 765
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2113f5bc22fc9b940800000000000000
+      internalID: 5312504983808061714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 767
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e253415f615f590800000000000000
+      internalID: -7641175950902350200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 765
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3a9c18f5af911e0800000000000000
+      internalID: -2226473252651686961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_58
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 765
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc6e404551c6a8d0800000000000000
+      internalID: -2835366343487886120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_59
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 765
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fdda75c653b1620800000000000000
+      internalID: 2745847137256202099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_60
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 765
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142f5b964a4aebe00800000000000000
+      internalID: 1062467588161139265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_61
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 714
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f1851ce8813260800000000000000
+      internalID: 7075587037130256915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_62
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 714
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4740ec0fe7f9c2f80800000000000000
+      internalID: -8129947859755858828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_63
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 714
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadcfbb505cf00ec0800000000000000
+      internalID: -3602602279829516881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_64
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 654
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93881a217f4a74bc0800000000000000
+      internalID: -3798886379587270599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 654
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286f29d2a64646fc0800000000000000
+      internalID: -3502564202993486206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 654
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3b0cfcd43d573c0800000000000000
+      internalID: -4362348332887002161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 654
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447f0833a0a3b6df0800000000000000
+      internalID: -185991144117569724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_68
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 596
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2928a0be29bab80800000000000000
+      internalID: -8382444743228747085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_69
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 596
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5b0f36b53191510800000000000000
+      internalID: 1520267632453924315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 596
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62adb572f84fd7e70800000000000000
+      internalID: 9114710116545583654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 544
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25381dffe875f0400800000000000000
+      internalID: 292548772491264850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_72
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 544
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dd2490e361e87e0800000000000000
+      internalID: -1761445948556124773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 544
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec09cdaa7fb3180800000000000000
+      internalID: -9134435105973940612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 468
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b011b369527b33b50800000000000000
+      internalID: 6571797653325811979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_75
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 460
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba7434421e9d1a50800000000000000
+      internalID: 6493520039029013171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_76
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 452
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8f3eaba82fc4490800000000000000
+      internalID: -7760561380211296005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 463
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195784fd0ba60d360800000000000000
+      internalID: 7192365912803538321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_78
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 470
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0b1a6fea1d5a20800000000000000
+      internalID: 3052625738006727278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_79
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 396
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138c2b88ee2875b20800000000000000
+      internalID: 3123108827611973681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_80
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 396
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf92ca3b53dd11c0800000000000000
+      internalID: -4531233261283532835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_81
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 396
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce0c3fd5b6236860800000000000000
+      internalID: 7521898365215051468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_82
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 396
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9414bf117a37b40800000000000000
+      internalID: 5436872870837963211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_83
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 396
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92467b09dc816e190800000000000000
+      internalID: -7933626422391249879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_84
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 397
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cad2aff9ee8fe560800000000000000
+      internalID: 7345246652931955397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_85
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 397
+        width: 98
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6d5bdcaccb1b860800000000000000
+      internalID: 7544018430042953393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_86
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 398
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcc3cf89ac51baf0800000000000000
+      internalID: -382422610018579206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_87
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 344
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd48556034eee8e10800000000000000
+      internalID: 2201959239467238620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_88
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 344
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7194de56f20a5960800000000000000
+      internalID: 7591383379062591866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 281
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba24a17ad37cd3e0800000000000000
+      internalID: -2027618350176916801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_90
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 281
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132f3c486fcda8b60800000000000000
+      internalID: 7749249060191859249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_91
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 267
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22067e4788e19bef0800000000000000
+      internalID: -92008745958678494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_92
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 269
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c40e2074f44e1930800000000000000
+      internalID: 4115802926107985091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_93
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 266
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaf7a585dd01e750800000000000000
+      internalID: 6332357761781201568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_95
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 268
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f345896e69201fbd0800000000000000
+      internalID: -2598292662878972865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 203
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017b9555711462990800000000000000
+      internalID: -7411164568319576304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 203
+        width: 106
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c1a7ed1e730ee0800000000000000
+      internalID: -1296053600847282093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_100
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 203
+        width: 106
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee63c41ad7abb1f0800000000000000
+      internalID: -1028043534830965024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_101
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 203
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dcf7b2a8ad20810800000000000000
+      internalID: 1730185493833829766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_103
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 205
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0724923f1796c2840800000000000000
+      internalID: 5200647607837868656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_109
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 89
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73018491a6af682d0800000000000000
+      internalID: -3276656345267826633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_112
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 88
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dfb66267434c860800000000000000
+      internalID: 7549216557435190615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_116
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 89
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891668d565e30ea00800000000000000
+      internalID: 783694875819663768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_118
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 89
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a3968a13784680800000000000000
+      internalID: -8770633716539873140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_120
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 89
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba23a4eaa98c9290800000000000000
+      internalID: -7882273880731866433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_122
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 38
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8b853fae8465e10800000000000000
+      internalID: 2186014843077179570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_124
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 38
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc03aa062a8ac4f0800000000000000
+      internalID: -807681287167734534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_125
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 38
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe9d245c5c7252c0800000000000000
+      internalID: -4444353146270146819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_126
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 38
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2de5ce9b48db460800000000000000
+      internalID: 7259104108460561101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_127
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 38
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5294bb3d6921a5380800000000000000
+      internalID: -8981846067830372059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tanjiro_131
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 6
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b75b10980120170800000000000000
+      internalID: 8143089256864512780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
