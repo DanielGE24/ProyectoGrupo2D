@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: e9d26c591277bb84f84fb758bb8b49b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7223403010454840090
+    second: tanjiro2atack_0
+  - first:
+      213: 136738390001962695
+    second: tanjiro2atack_1
+  - first:
+      213: 3783248942005026190
+    second: tanjiro2atack_2
+  - first:
+      213: -572036027280995594
+    second: tanjiro2atack_3
+  - first:
+      213: 4864082197626080078
+    second: tanjiro2atack_4
+  - first:
+      213: -1760996550229334223
+    second: tanjiro2atack_5
+  - first:
+      213: -321602847073565083
+    second: tanjiro2atack_6
+  - first:
+      213: -4278978729453913009
+    second: tanjiro2atack_7
+  - first:
+      213: -26081149866370636
+    second: tanjiro2atack_8
+  - first:
+      213: 4725013472381973591
+    second: tanjiro2atack_9
+  - first:
+      213: 6057705137902628570
+    second: tanjiro2atack_10
+  - first:
+      213: -8384355794350405734
+    second: tanjiro2atack_11
+  - first:
+      213: -5112941886431329250
+    second: tanjiro2atack_12
+  - first:
+      213: -1915303225126439902
+    second: tanjiro2atack_13
+  - first:
+      213: -4170443835567963825
+    second: tanjiro2atack_14
+  - first:
+      213: -808149679975315251
+    second: tanjiro2atack_15
+  - first:
+      213: 4899184996934260772
+    second: tanjiro2atack_16
+  - first:
+      213: 5493463909400923543
+    second: tanjiro2atack_17
+  - first:
+      213: -8313550122746281839
+    second: tanjiro2atack_18
+  - first:
+      213: 6166333893987285569
+    second: tanjiro2atack_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tanjiro2atack_0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 170
+        width: 66
+        height: 70
+      alignment: 9
+      pivot: {x: 0.51536655, y: 0.28266254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13e5ab44ceae3460800000000000000
+      internalID: 7223403010454840090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 170
+        width: 66
+        height: 70
+      alignment: 9
+      pivot: {x: 0.51536655, y: 0.28266254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cec93b57dac5e100800000000000000
+      internalID: 136738390001962695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 166
+        width: 66
+        height: 70
+      alignment: 9
+      pivot: {x: 0.51536655, y: 0.28266254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df4154edcc08430800000000000000
+      internalID: 3783248942005026190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 170
+        width: 66
+        height: 70
+      alignment: 9
+      pivot: {x: 0.51536655, y: 0.28266254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13764ecb7feaf87e0800000000000000
+      internalID: -1760996550229334223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 50
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b991e6155753aff0800000000000000
+      internalID: -26081149866370636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 60
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754334c08be929140800000000000000
+      internalID: 4725013472381973591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeaeb25aba411450800000000000000
+      internalID: 6057705137902628570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 49
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a978147c3d8c4ab80800000000000000
+      internalID: -8384355794350405734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 55
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148b0e917e2b09b0800000000000000
+      internalID: -5112941886431329250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 54
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224bd2d4dd97b65e0800000000000000
+      internalID: -1915303225126439902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 48
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4101417d6b9f16c0800000000000000
+      internalID: -4170443835567963825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 50
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8c9b7d520e8c4f0800000000000000
+      internalID: -808149679975315251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_16
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 31
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42890373cc66df340800000000000000
+      internalID: 4899184996934260772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_17
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 35
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d454ae154bc3c40800000000000000
+      internalID: 5493463909400923543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 40
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1908d4fd53650ac80800000000000000
+      internalID: -8313550122746281839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 44
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a30958108339550800000000000000
+      internalID: 6166333893987285569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanjiro2atack_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 173
+        width: 66
+        height: 70
+      alignment: 9
+      pivot: {x: 0.51536655, y: 0.28266254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bcdcbdcf0b08340800000000000000
+      internalID: 4864082197626080078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
