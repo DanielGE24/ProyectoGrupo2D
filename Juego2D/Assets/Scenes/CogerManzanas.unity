@@ -1304,7 +1304,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d11e8738df6b9a640b3fad5da2713bae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RehenPrefab: {fileID: 6574649826157595518, guid: 187147295f7b464419d002d9627338b8, type: 3}
+  rehenes:
+  - {fileID: 6574649826157595518, guid: 187147295f7b464419d002d9627338b8, type: 3}
+  - {fileID: 6574649826157595518, guid: 0784ffe7ad44faa448a1eb718d71ec3d, type: 3}
   tiempo: 0
   textoTimer: {fileID: 683445845}
   textoContador: {fileID: 205215671}
@@ -1545,7 +1547,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2103849634}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1819619570}
+        m_TargetAssemblyTypeName: Spawner, Assembly-CSharp
+        m_MethodName: RetryButton
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2103849634
 MonoBehaviour:
   m_ObjectHideFlags: 0
