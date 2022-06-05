@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class AtaqueInosuke : MonoBehaviour
 {
@@ -15,12 +16,14 @@ public class AtaqueInosuke : MonoBehaviour
     public float tiempo;
     float tiempoMaximo;
     Animator anim;
+    
     void Start()
     {
-        poderAtacar = true;
-        tiempoMaximo = 5;
+        tiempoMaximo = 10;
         tiempo = Mathf.Round(tiempo * 100f) / 100f;
         anim = GetComponent<Animator>();
+        StartCoroutine(Espera());
+
     }
 
     // Update is called once per frame
@@ -30,46 +33,71 @@ public class AtaqueInosuke : MonoBehaviour
 
         //---------------------ATAQUE---------------------//
 
-        txtContadorTiempo.text = "Tiempo: " + Mathf.Round(tiempo);
+
         if (poderAtacar == true)
         {
+            Atacar();
+        }
 
+
+
+        //----------------GANAR O PERDER----------------------/
+
+        if (tiempo >= tiempoMaximo)
+        {
+            tiempo = tiempoMaximo;
+            poderAtacar = false;
+            if (contadorAtaques < 10)
+            {
+                hasPerdido.SetActive(true);
+                anim.SetBool("derrota", true);
+            }
+
+            else
+            {
+                hasGanado.SetActive(true);
+                anim.SetBool("victoria", true);
+                StartCoroutine(seguirHistoria());
+            }
+        }
+
+    }
+    void Atacar()
+    {
+     
+        txtContadorTiempo.text = "Tiempo: " + Mathf.Round(tiempo);
+        {
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 contadorAtaques++;
                 anim.SetTrigger("ataque");
 
             }
-
-
-        }
             txtContadorAtaques.text = "Ataques: " + contadorAtaques;
-
-
-
-
-            //----------------GANAR O PERDER----------------------/
-
-            if (tiempo >= tiempoMaximo)
-            {
-                tiempo = tiempoMaximo;
-                poderAtacar = false;
-                if (contadorAtaques < 10)
-                {
-                    hasPerdido.SetActive(true);
-                    anim.SetBool("derrota", true);
-                }
-
-                else
-                {
-                    hasGanado.SetActive(true);
-                    anim.SetBool("victoria", true);
-                }
-            }
-
         }
-
     }
+    IEnumerator Espera()
+    {
+        yield return new WaitForSeconds(5);
+        poderAtacar = true;
+        tiempo = 0;
+        anim.SetTrigger("Idle");
+    }
+
+
+
+    void RetryButton()
+    {
+        
+    }
+
+    IEnumerator seguirHistoria()
+    {
+        yield return new WaitForSeconds(1);
+
+        SceneManager.LoadScene(2);
+    }
+}
 
 
 
