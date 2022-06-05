@@ -13,9 +13,13 @@ public class Spawner : MonoBehaviour
     bool sumarTimer;
     Destructor muertes;
     Zenitsu contador;
+    float cuenta = 5;
+    bool cuentaInicio;
     [SerializeField] TextMeshProUGUI textoContador;
     [SerializeField] GameObject derrota;
     [SerializeField] GameObject victoria;
+    [SerializeField] TextMeshProUGUI textoCuentaAtras;
+    [SerializeField] GameObject cuentaAtras;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,11 +28,18 @@ public class Spawner : MonoBehaviour
         player.movimiento = false;
         muertes = GameObject.FindGameObjectWithTag("Destructor").GetComponent<Destructor>();
         contador = GameObject.FindGameObjectWithTag("Player").GetComponent<Zenitsu>();
+        cuenta = Mathf.Round(tiempo * 100f) / 100;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (cuentaInicio == true)
+        {
+            cuenta -= 1 * Time.deltaTime;
+            textoCuentaAtras.text = "" + Mathf.Round((tiempo*100f)/100);
+            //cuentaAtras.SetActive(false);
+        }
         if (sumarTimer == true)
         {
             tiempo += 1 * Time.deltaTime;
@@ -61,6 +72,7 @@ public class Spawner : MonoBehaviour
 
     public IEnumerator SpawnRehenes()
     {
+        cuentaInicio = true;
         yield return new WaitForSeconds(5);
         sumarTimer = true;
         player.movimiento = true;

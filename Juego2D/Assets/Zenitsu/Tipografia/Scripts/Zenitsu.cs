@@ -20,6 +20,7 @@ public class Zenitsu : MonoBehaviour
         movimiento = true;
         sR = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
+        
     }
 
     // Update is called once per frame
@@ -31,7 +32,7 @@ public class Zenitsu : MonoBehaviour
         }
 
         float ClampedX = Mathf.Clamp(transform.position.x, -5.9f, 5.9f);
-        transform.position = new Vector3(ClampedX, -4, 0);
+        transform.position = new Vector3(ClampedX, -4.5f, 0);
 
     }
     private void OnTriggerEnter2D(Collider2D collision)
