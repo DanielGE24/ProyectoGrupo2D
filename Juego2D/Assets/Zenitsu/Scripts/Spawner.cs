@@ -28,7 +28,7 @@ public class Spawner : MonoBehaviour
         player.movimiento = false;
         muertes = GameObject.FindGameObjectWithTag("Destructor").GetComponent<Destructor>();
         contador = GameObject.FindGameObjectWithTag("Player").GetComponent<Zenitsu>();
-        cuenta = Mathf.Round(tiempo * 100f) / 100;
+        
     }
 
     // Update is called once per frame
@@ -37,8 +37,7 @@ public class Spawner : MonoBehaviour
         if (cuentaInicio == true)
         {
             cuenta -= 1 * Time.deltaTime;
-            textoCuentaAtras.text = "" + Mathf.Round((tiempo*100f)/100);
-            //cuentaAtras.SetActive(false);
+            textoCuentaAtras.text = "" + Mathf.Round(cuenta);
         }
         if (sumarTimer == true)
         {
@@ -74,6 +73,7 @@ public class Spawner : MonoBehaviour
     {
         cuentaInicio = true;
         yield return new WaitForSeconds(5);
+        cuentaAtras.SetActive(false);
         sumarTimer = true;
         player.movimiento = true;
         while (tiempo <= 30)
