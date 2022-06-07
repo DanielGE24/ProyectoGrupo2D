@@ -6,15 +6,15 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using UnityEngine.Video;
 
-public class Dialogos3 : MonoBehaviour
+public class Dialogos4 : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField] string[] textos;
     [SerializeField] string[] nombres;
     [SerializeField] Sprite[] spritesPersonajes;
     [SerializeField] Sprite[] fondos;
-    
-    
+
+
     [SerializeField] Image personajeSR1;
     [SerializeField] Image personajeSR2;
     [SerializeField] Image fondoEscena;
@@ -26,7 +26,7 @@ public class Dialogos3 : MonoBehaviour
     int contadorFondos;
     [SerializeField] GameObject marcoTexto;
 
-    
+
 
     [SerializeField] TextMeshProUGUI texto;
 
@@ -42,7 +42,7 @@ public class Dialogos3 : MonoBehaviour
 
         contadorSprites1 = 31;
         contadorSprites2 = 31;
-        contadorFondos = 0;
+        contadorFondos = 1;
     }
 
     // Update is called once per frame
@@ -72,48 +72,57 @@ public class Dialogos3 : MonoBehaviour
 
         if (contadorFrases == 0) //Inicio
         {
-            contadorFondos = 0;
-            contadorSprites1 = 3;
-            marcoNombre1.SetActive(true);
-            contadorNombres1 = 0;
-            contadorSprites2 = 31;
+            contadorFondos = 1;
+            contadorSprites2 = 16;
+            marcoNombre2.SetActive(true);
+           
+            contadorNombres2=2;
+            
 
         }
 
         if (contadorFrases == 1)
         {
-            marcoNombre2.SetActive(true);
-            contadorSprites2 = 19;
-            contadorNombres2 = 3;
+            contadorSprites2 = 13;
+            
 
 
         }
 
         if (contadorFrases == 2)
         {
-            contadorSprites1 = 2;
+            contadorNombres2 = 4;
+            contadorSprites2 = 22;
 
         }
 
-        if (contadorFrases == 3) //Empieza minijuego Inosuke
+        if (contadorFrases == 3)
         {
-            
-            contadorSprites2 = 18;
+
+            contadorNombres2 = 2;
+            contadorSprites2 = 15;
         }
 
         if (contadorFrases == 4)
         {
-            contadorSprites2 = 19;
+            contadorSprites2 = 31;
+            marcoNombre2.SetActive(false);
+            marcoTexto.SetActive(false);
+            
         }
 
         if (contadorFrases == 5)
         {
-            contadorSprites2 = 18;
+            contadorFondos = 0;
+            marcoTexto.SetActive(true);
         }
 
         if (contadorFrases == 6)
         {
-            contadorSprites1 = 3;
+            marcoNombre1.SetActive(true);
+            
+            contadorNombres1 = 0;
+            contadorSprites1 = 4;
 
 
 
@@ -121,41 +130,49 @@ public class Dialogos3 : MonoBehaviour
 
         if (contadorFrases == 7)
         {
-            contadorSprites2 = 14;
-            contadorNombres2 = 2;
+            marcoNombre2.SetActive(true);
+            contadorSprites2 = 20;
+            contadorNombres2 = 3;
         }
 
         if (contadorFrases == 8)
         {
-            contadorSprites2 = 7;
-            contadorNombres2 = 3;
+            contadorSprites2 = 6;
+            contadorNombres2 = 1;
         }
 
-        if (contadorFrases == 9)
+        if (contadorFrases == 9) //Todo en negro, ...
         {
-            contadorSprites1 = 30;
+            
+            marcoNombre2.SetActive(false);
+            marcoNombre1.SetActive(false);
+            
+            contadorSprites1 = 31;
+            contadorSprites2 = 31;
         }
 
 
         if (contadorFrases == 10)
         {
-            contadorSprites2 = 19;
+            contadorSprites2 = 20;
             contadorNombres2 = 3;
         }
 
         if (contadorFrases == 11)
         {
-            contadorSprites2 = 20;
+            
         }
 
         if (contadorFrases == 12)
         {
-
+            contadorSprites2 = 6;
+            contadorNombres2 = 1;
         }
 
         if (contadorFrases == 13)
         {
-
+            marcoNombre2.SetActive(false);
+            contadorSprites2 = 31;
         }
 
         if (contadorFrases == 14)
@@ -170,33 +187,33 @@ public class Dialogos3 : MonoBehaviour
 
         if (contadorFrases == 16)
         {
-
+            marcoNombre2.SetActive(true);
+            contadorNombres2 = 7;
+            contadorSprites2 = 28;
         }
 
         if (contadorFrases == 17)
         {
-        
-            marcoNombre1.SetActive(false);
-            marcoNombre2.SetActive(false);
 
-            contadorSprites1 = 31;
-            contadorSprites2 = 31;
+           
         }
         if (contadorFrases == 18)
         {
-            marcoTexto.SetActive(false);
+            contadorSprites2 = 29;
         }
 
-        if (contadorFrases ==19)
+        if (contadorFrases == 19)
         {
-            
-            marcoTexto.SetActive(true);
-            contadorFondos = 2;
+            marcoNombre1.SetActive(true);
+            contadorNombres1 = 0;
+            contadorSprites1 = 1;
+            contadorSprites2 = 28;
+
         }
 
         if (contadorFrases == 20)
         {
-
+            contadorSprites2 = 27;
         }
 
         if (contadorFrases == 21)
@@ -206,48 +223,31 @@ public class Dialogos3 : MonoBehaviour
 
         if (contadorFrases == 22)
         {
-
+            contadorSprites2 = 27;
         }
 
         if (contadorFrases == 23)
         {
-            contadorFondos = 1;
-            marcoNombre2.SetActive(true);
-            contadorSprites2 = 11;
-            contadorNombres2 = 2;
+            
         }
 
         if (contadorFrases == 24)
         {
-            contadorSprites2 = 23;
-            contadorNombres2 = 4;
+            contadorSprites2 = 26;
         }
 
         if (contadorFrases == 25)
         {
-
+            contadorSprites2 = 20;
+            contadorNombres2 = 3;
         }
 
         if (contadorFrases == 26)
         {
-            contadorSprites2 = 16;
-            contadorNombres2 = 2;
+            //Cargar minijuego de rengoku
         }
 
-        if (contadorFrases == 27)
-        {
-            contadorSprites2 = 15;
-        }
-
-        if (contadorFrases == 28)
-        {
-
-        }
-
-        if (contadorFrases == 30)
-        {
-            SceneManager.LoadScene(4);
-        }
+        
 
 
 
