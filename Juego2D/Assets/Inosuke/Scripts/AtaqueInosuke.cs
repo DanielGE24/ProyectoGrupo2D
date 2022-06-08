@@ -16,10 +16,14 @@ public class AtaqueInosuke : MonoBehaviour
     public float tiempo;
     float tiempoMaximo;
     Animator anim;
-    
+    float cuenta = 5;
+    bool cuentaInicio;
+    [SerializeField] GameObject cuentaAtras;
+    [SerializeField] TextMeshProUGUI textoCuentaAtras;
+
     void Start()
     {
-        tiempoMaximo = 10;
+        tiempoMaximo = 15;
         tiempo = Mathf.Round(tiempo * 100f) / 100f;
         anim = GetComponent<Animator>();
         StartCoroutine(Espera());
@@ -30,6 +34,15 @@ public class AtaqueInosuke : MonoBehaviour
     void Update()
     {
         tiempo += 1 * Time.deltaTime;
+
+        //-------------------CUENTA ATRÁS---------------------//
+
+
+        if (cuentaInicio == true)
+        {
+            cuenta -= 1 * Time.deltaTime;
+            textoCuentaAtras.text = "" + Mathf.Round(cuenta);
+        }
 
         //---------------------ATAQUE---------------------//
 
@@ -47,7 +60,7 @@ public class AtaqueInosuke : MonoBehaviour
         {
             tiempo = tiempoMaximo;
             poderAtacar = false;
-            if (contadorAtaques < 10)
+            if (contadorAtaques < 100)
             {
                 hasPerdido.SetActive(true);
                 anim.SetBool("derrota", true);
@@ -78,13 +91,13 @@ public class AtaqueInosuke : MonoBehaviour
     }
     IEnumerator Espera()
     {
+        cuentaInicio = true;
         yield return new WaitForSeconds(5);
+        cuentaAtras.SetActive(false);
         poderAtacar = true;
         tiempo = 0;
         anim.SetTrigger("Idle");
     }
-
-
 
     void RetryButton()
     {
