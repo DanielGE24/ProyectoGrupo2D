@@ -46,7 +46,7 @@ public class Spawner : MonoBehaviour
             textoContador.text = "X " + contador.contador;
         }
 
-        if (tiempo >= 60 && muertes.contadorMuertes <= 5)
+        if (tiempo >= 60 && muertes.contadorMuertes <= 15)
         {
             StopAllCoroutines();
             player.movimiento = false;
@@ -54,7 +54,7 @@ public class Spawner : MonoBehaviour
             player.anim.SetTrigger("Victoria");
             victoria.SetActive(true);
         }
-        else if (muertes.contadorMuertes >= 5)
+        else if (muertes.contadorMuertes >= 15)
         {
             StopAllCoroutines();
             player.movimiento = false;
