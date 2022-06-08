@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/Miri/grupoprog/ProyectoGrupo2D/Juego2D
+D:/TrabajoProDaniel/ProyectoGrupo2D/Juego2D
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57899
-Successfully changed project path to: D:/Miri/grupoprog/ProyectoGrupo2D/Juego2D
-D:/Miri/grupoprog/ProyectoGrupo2D/Juego2D
+50409
+Successfully changed project path to: D:/TrabajoProDaniel/ProyectoGrupo2D/Juego2D
+D:/TrabajoProDaniel/ProyectoGrupo2D/Juego2D
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 40.69 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 39.46 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.6f1 (338bb68529b2)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Miri/grupoprog/ProyectoGrupo2D/Juego2D/Assets
+[Subsystems] Discovering subsystems at path D:/TrabajoProDaniel/ProyectoGrupo2D/Juego2D/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
@@ -35,1968 +35,227 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56188
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56964
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002631 seconds.
+Registered in 0.002615 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 36.65 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 37.68 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.463 seconds
+- Completed reload, in  2.442 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000914 seconds.
+Registered in 0.000911 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 37.04 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 38.23 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.025 seconds
+- Completed reload, in  1.001 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
 Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1836 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 87.3 MB.
 System memory in use after: 87.3 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2284.
-Total: 2.148600 ms (FindLiveObjects: 0.215700 ms CreateObjectMapping: 0.078100 ms MarkObjects: 1.788400 ms  DeleteObjects: 0.065600 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 2.219500 ms (FindLiveObjects: 0.194800 ms CreateObjectMapping: 0.077300 ms MarkObjects: 1.879300 ms  DeleteObjects: 0.067100 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/enemigos/rana_ataque.png
-  artifactKey: Guid(f83639dbdcd7f6e42bc02aa60a874e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/enemigos/rana_ataque.png using Guid(f83639dbdcd7f6e42bc02aa60a874e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700a06db7a6625d8f5ebe4395076d19d') in 0.099611 seconds
-  Import took 0.103027 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/enemigos/pain_ranitas.png
-  artifactKey: Guid(e334be3d3120e0c47b76ebff55c8f421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/enemigos/pain_ranitas.png using Guid(e334be3d3120e0c47b76ebff55c8f421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3f98207e4ab651ea434963bbe0ae54') in 0.039173 seconds
-  Import took 0.042150 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.176117 seconds.
-  path: Assets/Scenes/CogerManzanas.unity
-  artifactKey: Guid(79f7e8132edb32645808793ea646857e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/CogerManzanas.unity using Guid(79f7e8132edb32645808793ea646857e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7da0a256d2075ad6adf0cd071f2b35') in 0.005958 seconds
-  Import took 0.009246 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007040 seconds.
-  path: Assets/Scenes/CogerManzanas.unity
-  artifactKey: Guid(79f7e8132edb32645808793ea646857e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/CogerManzanas.unity using Guid(79f7e8132edb32645808793ea646857e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7da0a256d2075ad6adf0cd071f2b35') in 0.001886 seconds
-  Import took 0.005466 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.368526 seconds.
-  path: Assets/Scenes/PegarAlTren.unity
-  artifactKey: Guid(84ddf447a85f1074eb1c5bec4de19515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/PegarAlTren.unity using Guid(84ddf447a85f1074eb1c5bec4de19515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85abdaa42cf7e43722148091b794c088') in 0.006539 seconds
-  Import took 0.010205 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.545132 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf595eaeb10e7fcd37cdd758b995f25') in 0.007231 seconds
-  Import took 0.013873 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.993983 seconds.
-  path: Assets/ninja-naruto_[allfont.es] SDF.asset
-  artifactKey: Guid(cf2df816cb1b8e641ad6b6c6c75098b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ninja-naruto_[allfont.es] SDF.asset using Guid(cf2df816cb1b8e641ad6b6c6c75098b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7302e74815471f7e3105d98b3eb2752e') in 0.093081 seconds
-  Import took 0.097471 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/ninja-naruto_[allfont.es].ttf
-  artifactKey: Guid(87a4cf0f6ebe46249b074e2dc09da314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ninja-naruto_[allfont.es].ttf using Guid(87a4cf0f6ebe46249b074e2dc09da314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f415ce051f3fa575e4769e9dbd5af6') in 0.023302 seconds
-  Import took 0.026275 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.018060 seconds.
   path: Assets/pngwing.com.png
   artifactKey: Guid(101e57188a4861f4db9c680d2a9163ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pngwing.com.png using Guid(101e57188a4861f4db9c680d2a9163ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0377a7b1f466ce914d41013193d2b20e') in 0.023599 seconds
-  Import took 0.027101 seconds .
+Start importing Assets/pngwing.com.png using Guid(101e57188a4861f4db9c680d2a9163ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0377a7b1f466ce914d41013193d2b20e') in 0.187016 seconds
+  Import took 0.190302 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 30.518452 seconds.
-  path: Assets/Sprites/Tanjiro.png
-  artifactKey: Guid(0e7356a77eae71c48a63b2f8d085f762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Tanjiro.png using Guid(0e7356a77eae71c48a63b2f8d085f762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec3931b6ed9a03e2e98f3c483daa4ee') in 0.011399 seconds
-  Import took 0.015783 seconds .
+  Time since last request: 0.000282 seconds.
+  path: Assets/Trenes1.png
+  artifactKey: Guid(879e7c560a730ef439a4c7e2098b31df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trenes1.png using Guid(879e7c560a730ef439a4c7e2098b31df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bb277825341f4aad6a22297a02db97') in 0.043451 seconds
+  Import took 0.046451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/ninja-naruto_[allfont.es] SDF.asset
+  artifactKey: Guid(cf2df816cb1b8e641ad6b6c6c75098b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ninja-naruto_[allfont.es] SDF.asset using Guid(cf2df816cb1b8e641ad6b6c6c75098b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7302e74815471f7e3105d98b3eb2752e') in 0.089194 seconds
+  Import took 0.092522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/ninja-naruto_[allfont.es].ttf
+  artifactKey: Guid(87a4cf0f6ebe46249b074e2dc09da314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ninja-naruto_[allfont.es].ttf using Guid(87a4cf0f6ebe46249b074e2dc09da314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f415ce051f3fa575e4769e9dbd5af6') in 0.024167 seconds
+  Import took 0.027100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.609225 seconds.
+  path: Assets/Scenes/CogerManzanas.unity
+  artifactKey: Guid(79f7e8132edb32645808793ea646857e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CogerManzanas.unity using Guid(79f7e8132edb32645808793ea646857e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7da0a256d2075ad6adf0cd071f2b35') in 0.006223 seconds
+  Import took 0.009994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010823 seconds.
+  path: Assets/Scenes/CogerManzanas.unity
+  artifactKey: Guid(79f7e8132edb32645808793ea646857e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CogerManzanas.unity using Guid(79f7e8132edb32645808793ea646857e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7da0a256d2075ad6adf0cd071f2b35') in 0.002676 seconds
+  Import took 0.007228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.237250 seconds.
+  path: Assets/Scenes/PegarAlTren.unity
+  artifactKey: Guid(84ddf447a85f1074eb1c5bec4de19515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PegarAlTren.unity using Guid(84ddf447a85f1074eb1c5bec4de19515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6b4a31e543445ecb0d2d66b0ac2cdc') in 0.006984 seconds
+  Import took 0.020078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.724503 seconds.
+  path: Assets/Scenes/Tanjiro.unity
+  artifactKey: Guid(e71d205c2fc986e4e89d96315716408e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Tanjiro.unity using Guid(e71d205c2fc986e4e89d96315716408e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c415f2c39d00d0c42f71ae7caadb3ee') in 0.007515 seconds
+  Import took 0.012282 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001048 seconds.
+Registered in 0.000980 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.918 seconds
+- Completed reload, in  0.900 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 88.9 MB.
 System memory in use after: 89.0 MB.
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2365.
-Total: 1.944400 ms (FindLiveObjects: 0.189400 ms CreateObjectMapping: 0.076900 ms MarkObjects: 1.661600 ms  DeleteObjects: 0.015500 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2336.
+Total: 1.995500 ms (FindLiveObjects: 0.224300 ms CreateObjectMapping: 0.073600 ms MarkObjects: 1.681400 ms  DeleteObjects: 0.014500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 43.509023 seconds.
-  path: Assets/Tanjiro/prefabs_naruto
-  artifactKey: Guid(90d43a90e7c894e44b20003d3bd9376d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/prefabs_naruto using Guid(90d43a90e7c894e44b20003d3bd9376d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e0bcb70f700e603022b44f7350aaac') in 0.009418 seconds
-  Import took 0.015182 seconds .
+  Time since last request: 107.643761 seconds.
+  path: Assets/Inosuke/Sprites/Inosuke.jpg
+  artifactKey: Guid(bfa67099b123dc64dbb5e8f2be9171e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inosuke/Sprites/Inosuke.jpg using Guid(bfa67099b123dc64dbb5e8f2be9171e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ca8751a2f83cd302c400dc114c3031') in 0.062435 seconds
+  Import took 0.066538 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.057076 seconds.
-  path: Assets/Tanjiro/prefabs_naruto/tanjiro2atack_15.prefab
-  artifactKey: Guid(cc661a4ad8987f4498b4a33a25ccd7f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/prefabs_naruto/tanjiro2atack_15.prefab using Guid(cc661a4ad8987f4498b4a33a25ccd7f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93ab3e586b096a4046e3166f35569c4d') in 0.058018 seconds
-  Import took 0.061746 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.773203 seconds.
-  path: Assets/Tanjiro/Ataque.anim
-  artifactKey: Guid(67b3e2ba57a6e0e4e86ec417d8b75fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Ataque.anim using Guid(67b3e2ba57a6e0e4e86ec417d8b75fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2eada77f23c58726d6ce397dcf3ceb1') in 0.008768 seconds
-  Import took 0.012520 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008939 seconds.
-  path: Assets/Tanjiro/Ataque.anim
-  artifactKey: Guid(67b3e2ba57a6e0e4e86ec417d8b75fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Ataque.anim using Guid(67b3e2ba57a6e0e4e86ec417d8b75fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2eada77f23c58726d6ce397dcf3ceb1') in 0.002523 seconds
-  Import took 0.006233 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.684671 seconds.
-  path: Assets/Tanjiro/naruto.cs
-  artifactKey: Guid(934e514e369bd064cb7e316725f6d428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/naruto.cs using Guid(934e514e369bd064cb7e316725f6d428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e92bb0750762ee728da4d417843973') in 0.009653 seconds
-  Import took 0.012918 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.880850 seconds.
-  path: Assets/Sprites/Zenitsu
-  artifactKey: Guid(116b97d9a52381546bf63646bd02c8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Zenitsu using Guid(116b97d9a52381546bf63646bd02c8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b393f4008ebd0e133ada960f6cae01d4') in 0.002364 seconds
-  Import took 0.006456 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.066291 seconds.
-  path: Assets/Sprites/Zenitsu/Zenitsu_cesta.png
-  artifactKey: Guid(a10ad5dd4eba9fb4ea303cbfeace94a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Zenitsu/Zenitsu_cesta.png using Guid(a10ad5dd4eba9fb4ea303cbfeace94a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f515d11d0a446de55e449239a2f58bd') in 0.059028 seconds
-  Import took 0.062855 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Sprites/Zenitsu/Zenitsu_muerte.png
-  artifactKey: Guid(080b5b0655279364e99c49b08680cc4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Zenitsu/Zenitsu_muerte.png using Guid(080b5b0655279364e99c49b08680cc4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9aa576bfcf8d439d350fe8f06e8ea73') in 0.045488 seconds
-  Import took 0.048783 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/Sprites/Zenitsu/Zenitsu_inicio.png
-  artifactKey: Guid(ce6426fb2ee95514bbdec642a886b57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Zenitsu/Zenitsu_inicio.png using Guid(ce6426fb2ee95514bbdec642a886b57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a53db5b8cfb176cc016879b08dada81e') in 0.047361 seconds
-  Import took 0.050557 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.207237 seconds.
-  path: Assets/seleccion/CanvasManager.cs
-  artifactKey: Guid(482c1d6ded9e1424dbe8d7e31e455510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/seleccion/CanvasManager.cs using Guid(482c1d6ded9e1424dbe8d7e31e455510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5fe95bfb7e826d4cd33dfc8c07dda2') in 0.005813 seconds
-  Import took 0.009256 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.141605 seconds.
-  path: Assets/Scripts/Holawachos.cs
-  artifactKey: Guid(f6a8ff6d9cf59e74fa7a12fe65c7c57a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Holawachos.cs using Guid(f6a8ff6d9cf59e74fa7a12fe65c7c57a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6ddbd3e77533f7a2165ae0c20c73f7') in 0.007015 seconds
-  Import took 0.011531 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000516 seconds.
-  path: Assets/Scripts/Holawachos.cs
-  artifactKey: Guid(f6a8ff6d9cf59e74fa7a12fe65c7c57a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Holawachos.cs using Guid(f6a8ff6d9cf59e74fa7a12fe65c7c57a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6ddbd3e77533f7a2165ae0c20c73f7') in 0.001853 seconds
-  Import took 0.005411 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000965 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.927 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.1 MB.
-System memory in use after: 89.2 MB.
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2434.
-Total: 1.952100 ms (FindLiveObjects: 0.196500 ms CreateObjectMapping: 0.076400 ms MarkObjects: 1.661000 ms  DeleteObjects: 0.017100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.593494 seconds.
-  path: Assets/Scripts/CogerManzanas
-  artifactKey: Guid(1b1f1ef3f31454b439e383c874141996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/CogerManzanas using Guid(1b1f1ef3f31454b439e383c874141996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64df600eb6f54d794e893c96d1f95a9') in 0.008684 seconds
-  Import took 0.012206 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004509 seconds.
-  path: Assets/Scripts/CogerManzanas
-  artifactKey: Guid(1b1f1ef3f31454b439e383c874141996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/CogerManzanas using Guid(1b1f1ef3f31454b439e383c874141996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64df600eb6f54d794e893c96d1f95a9') in 0.001632 seconds
-  Import took 0.004939 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.387807 seconds.
-  path: Assets/Trenes1.png
-  artifactKey: Guid(879e7c560a730ef439a4c7e2098b31df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Trenes1.png using Guid(879e7c560a730ef439a4c7e2098b31df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bb277825341f4aad6a22297a02db97') in 0.052460 seconds
-  Import took 0.056279 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Zenitsu
-  artifactKey: Guid(2513d60e3ca0a2d4f8c36c94804b2513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Zenitsu using Guid(2513d60e3ca0a2d4f8c36c94804b2513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d2f0ab5ef39842be6a912a2b448f6d2') in 0.001469 seconds
-  Import took 0.004127 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.080392 seconds.
-  path: Assets/Inosuke
-  artifactKey: Guid(6ba1544eef1b26f4d95b82fac20853bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Inosuke using Guid(6ba1544eef1b26f4d95b82fac20853bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '392f65362fb2026d56192e2f59951935') in 0.002172 seconds
-  Import took 0.006087 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.031920 seconds.
-  path: Assets/Anims/Inosuke@Victoria2.anim
-  artifactKey: Guid(443818c7c4f815c4695640be44ed69e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Anims/Inosuke@Victoria2.anim using Guid(443818c7c4f815c4695640be44ed69e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7de02c627437f291473e17bd98d2d73c') in 0.007269 seconds
-  Import took 0.011193 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009472 seconds.
-  path: Assets/Anims/Inosuke@Victoria2.anim
-  artifactKey: Guid(443818c7c4f815c4695640be44ed69e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Anims/Inosuke@Victoria2.anim using Guid(443818c7c4f815c4695640be44ed69e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7de02c627437f291473e17bd98d2d73c') in 0.002590 seconds
-  Import took 0.006324 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.947540 seconds.
-  path: Assets/Anims/Tanjiro_9.controller
-  artifactKey: Guid(d8e748eb13e842a4cb28f4765ee3cfbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Anims/Tanjiro_9.controller using Guid(d8e748eb13e842a4cb28f4765ee3cfbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c742680f12cc54d667c49b26420295cd') in 0.011263 seconds
-  Import took 0.015189 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.902308 seconds.
-  path: Assets/Anims
-  artifactKey: Guid(c709ce5e64ef9e14ca9fafa641c18d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Anims using Guid(c709ce5e64ef9e14ca9fafa641c18d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd6a5d9bfef54c866af409c22d90d52') in 0.009276 seconds
-  Import took 0.013131 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.684442 seconds.
-  path: Assets/Inosuke/Animaciones
-  artifactKey: Guid(59ea6e9235db5f9438f2285c50bcccef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Inosuke/Animaciones using Guid(59ea6e9235db5f9438f2285c50bcccef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3150fed4557f987e3c3341379da8bc3') in 0.007268 seconds
-  Import took 0.010579 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000429 seconds.
-  path: Assets/Inosuke/Animaciones
-  artifactKey: Guid(59ea6e9235db5f9438f2285c50bcccef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Inosuke/Animaciones using Guid(59ea6e9235db5f9438f2285c50bcccef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3150fed4557f987e3c3341379da8bc3') in 0.001919 seconds
-  Import took 0.005123 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.992279 seconds.
-  path: Assets/Anims/Inosuke@Ataque1.anim
-  artifactKey: Guid(79711609b4de98541b14c7dd23b5d9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Anims/Inosuke@Ataque1.anim using Guid(79711609b4de98541b14c7dd23b5d9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f14af950b06cf8406ad134a0c955554d') in 0.007090 seconds
-  Import took 0.010629 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003298 seconds.
-  path: Assets/Anims/Inosuke@Ataque1.anim
-  artifactKey: Guid(79711609b4de98541b14c7dd23b5d9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Anims/Inosuke@Ataque1.anim using Guid(79711609b4de98541b14c7dd23b5d9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f14af950b06cf8406ad134a0c955554d') in 0.002219 seconds
-  Import took 0.006076 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.569620 seconds.
-  path: Assets/Anims/I9nosuke_9.controller
-  artifactKey: Guid(d8e748eb13e842a4cb28f4765ee3cfbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Anims/I9nosuke_9.controller using Guid(d8e748eb13e842a4cb28f4765ee3cfbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47865f239f6b2d5da773abf0d6966594') in 0.007542 seconds
-  Import took 0.011166 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 30.217975 seconds.
-  path: Assets/Zenitsu/Zenitsu
-  artifactKey: Guid(b8b4c21d4101bde4e99ebe71c52de875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Zenitsu/Zenitsu using Guid(b8b4c21d4101bde4e99ebe71c52de875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fde9265faeea95e680f482a364ee65e') in 0.001730 seconds
-  Import took 0.005144 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.481610 seconds.
-  path: Assets/Zenitsu/Anims
-  artifactKey: Guid(b8b4c21d4101bde4e99ebe71c52de875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Zenitsu/Anims using Guid(b8b4c21d4101bde4e99ebe71c52de875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cd9df641a3aa7bd7323540e3136e0e8') in 0.002213 seconds
-  Import took 0.015010 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000975 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.930 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.1 MB.
-System memory in use after: 89.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2441.
-Total: 2.101500 ms (FindLiveObjects: 0.339800 ms CreateObjectMapping: 0.077100 ms MarkObjects: 1.669100 ms  DeleteObjects: 0.014100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000918 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.898 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.2 MB.
-System memory in use after: 89.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2445.
-Total: 1.967600 ms (FindLiveObjects: 0.186100 ms CreateObjectMapping: 0.075700 ms MarkObjects: 1.691100 ms  DeleteObjects: 0.013800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000940 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.942 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.2 MB.
-System memory in use after: 89.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2449.
-Total: 2.640800 ms (FindLiveObjects: 0.254500 ms CreateObjectMapping: 0.075400 ms MarkObjects: 2.288500 ms  DeleteObjects: 0.020600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000954 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.919 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.2 MB.
-System memory in use after: 89.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2453.
-Total: 2.011700 ms (FindLiveObjects: 0.181700 ms CreateObjectMapping: 0.075600 ms MarkObjects: 1.737500 ms  DeleteObjects: 0.015900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000925 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.911 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.2 MB.
-System memory in use after: 89.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2457.
-Total: 1.999200 ms (FindLiveObjects: 0.195400 ms CreateObjectMapping: 0.077400 ms MarkObjects: 1.711400 ms  DeleteObjects: 0.013900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000956 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.921 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.2 MB.
-System memory in use after: 89.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2461.
-Total: 2.087400 ms (FindLiveObjects: 0.209400 ms CreateObjectMapping: 0.077200 ms MarkObjects: 1.784200 ms  DeleteObjects: 0.015300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001388 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.907 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.2 MB.
-System memory in use after: 89.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2465.
-Total: 2.126700 ms (FindLiveObjects: 0.184000 ms CreateObjectMapping: 0.078400 ms MarkObjects: 1.849600 ms  DeleteObjects: 0.013800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 203.030875 seconds.
-  path: Assets/Inosuke/Scripts
-  artifactKey: Guid(37a74b783dc233d4fb66bfbc80e41cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Inosuke/Scripts using Guid(37a74b783dc233d4fb66bfbc80e41cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50eec6bfc2e30465028afa98c26b2a83') in 0.010027 seconds
-  Import took 0.013531 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001388 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.928 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.2 MB.
-System memory in use after: 89.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2469.
-Total: 2.050700 ms (FindLiveObjects: 0.208200 ms CreateObjectMapping: 0.075000 ms MarkObjects: 1.751700 ms  DeleteObjects: 0.014300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000933 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.920 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.2 MB.
-System memory in use after: 89.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2473.
-Total: 2.195700 ms (FindLiveObjects: 0.236800 ms CreateObjectMapping: 0.077700 ms MarkObjects: 1.866500 ms  DeleteObjects: 0.013900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 35.251206 seconds.
-  path: Assets/Tanjiro/parallax
-  artifactKey: Guid(a1318da1c85e0804eb2003c4174c31aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/parallax using Guid(a1318da1c85e0804eb2003c4174c31aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15ec7677791a64171b1cc9d07fbc3c4b') in 0.010240 seconds
-  Import took 0.014319 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 30.687880 seconds.
-  path: Assets/Tanjiro/Prefabs
-  artifactKey: Guid(90d43a90e7c894e44b20003d3bd9376d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Prefabs using Guid(90d43a90e7c894e44b20003d3bd9376d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ddcbf199ef0fc51c7fb97d7bcdc23f') in 0.006701 seconds
-  Import took 0.010294 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.991352 seconds.
-  path: Assets/Tanjiro/enemigos
-  artifactKey: Guid(fe5e35b416e94b549b47ecd3e9bffeb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/enemigos using Guid(fe5e35b416e94b549b47ecd3e9bffeb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae21f975547cc03ed9159637c970e61d') in 0.005990 seconds
-  Import took 0.009910 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.897590 seconds.
-  path: Assets/Tanjiro/enemigos/prefab_ranitas
-  artifactKey: Guid(87ba12fdb215b5f44a6d41f1590546ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/enemigos/prefab_ranitas using Guid(87ba12fdb215b5f44a6d41f1590546ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03a6a5936540b7f4231d8ca876ebd306') in 0.007157 seconds
-  Import took 0.010899 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.140900 seconds.
-  path: Assets/Tanjiro/enemigos/prefab_ranitas/enemigo.prefab
-  artifactKey: Guid(7a26e34925258b240a2af893fb5ec581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/enemigos/prefab_ranitas/enemigo.prefab using Guid(7a26e34925258b240a2af893fb5ec581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b966c411da9adadca8db7650bb81c0') in 0.058588 seconds
-  Import took 0.062427 seconds .
+  Time since last request: 0.000236 seconds.
+  path: Assets/Inosuke/Sprites/Inosuke.png
+  artifactKey: Guid(bd9cbd7d683ccf24bb84e4aac2ef2f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inosuke/Sprites/Inosuke.png using Guid(bd9cbd7d683ccf24bb84e4aac2ef2f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '519fcc76c574f7c23848f35f382ee206') in 0.234650 seconds
+  Import took 0.238273 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000195 seconds.
-  path: Assets/Tanjiro/enemigos/prefab_ranitas/rana_ataque_0.prefab
-  artifactKey: Guid(92e78fd8ca618344d84eac304c0f4b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/enemigos/prefab_ranitas/rana_ataque_0.prefab using Guid(92e78fd8ca618344d84eac304c0f4b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ad5b7477a954b56a58d46991cf0917') in 0.012960 seconds
-  Import took 0.016279 seconds .
+  path: Assets/Inosuke/Sprites/Trenes1.png
+  artifactKey: Guid(48673d420f928424eabb7c2cf6cd5970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inosuke/Sprites/Trenes1.png using Guid(48673d420f928424eabb7c2cf6cd5970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ef3563d24cc7c32064aab1f9818d94') in 0.013109 seconds
+  Import took 0.016152 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.559301 seconds.
-  path: Assets/Tanjiro/Prefabs/Ataque
-  artifactKey: Guid(3ca8cdae57986f94d833e6b934546c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Prefabs/Ataque using Guid(3ca8cdae57986f94d833e6b934546c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e08646a5a0e7cc59a455cdf7554f321') in 0.002127 seconds
-  Import took 0.006127 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.349647 seconds.
-  path: Assets/Tanjiro/Prefabs/pEnemigo
-  artifactKey: Guid(87ba12fdb215b5f44a6d41f1590546ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Prefabs/pEnemigo using Guid(87ba12fdb215b5f44a6d41f1590546ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e2a8d1610caa4c950ffe2a255805f0') in 0.006963 seconds
-  Import took 0.011076 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.301984 seconds.
-  path: Assets/Tanjiro
-  artifactKey: Guid(46904ccb45e7e00449d73695c8432c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro using Guid(46904ccb45e7e00449d73695c8432c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f1bae8b33df40f428251823bbcd712') in 0.007115 seconds
-  Import took 0.011426 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.498414 seconds.
-  path: Assets/Tanjiro/Anims
-  artifactKey: Guid(988e0da3e4f4fe248b4046b7b8350cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Anims using Guid(988e0da3e4f4fe248b4046b7b8350cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68aa8878eb33775183a642ee8501fed2') in 0.003392 seconds
-  Import took 0.006853 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000681 seconds.
-  path: Assets/Tanjiro/Anims
-  artifactKey: Guid(988e0da3e4f4fe248b4046b7b8350cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Anims using Guid(988e0da3e4f4fe248b4046b7b8350cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68aa8878eb33775183a642ee8501fed2') in 0.001615 seconds
-  Import took 0.004694 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.551047 seconds.
-  path: Assets/Tanjiro/Attack.anim
-  artifactKey: Guid(f6344cf13b7e8e343a8719c10c2eb529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Attack.anim using Guid(f6344cf13b7e8e343a8719c10c2eb529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6cef66d7777868543e542fcd309f080') in 0.007932 seconds
-  Import took 0.011602 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.529989 seconds.
-  path: Assets/Tanjiro/Scripts
-  artifactKey: Guid(fb855cb51ad10c34f86c12f944965bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Scripts using Guid(fb855cb51ad10c34f86c12f944965bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22795cc808f81b9ee808ded37af73634') in 0.003276 seconds
-  Import took 0.007389 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.600328 seconds.
-  path: Assets/Tanjiro/rashenS.cs
-  artifactKey: Guid(5f6fe43f1ee5426449d6f8897ad7ec3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/rashenS.cs using Guid(5f6fe43f1ee5426449d6f8897ad7ec3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c80ed7b1b3aad1d0632c0e6432f9a96b') in 0.007049 seconds
-  Import took 0.011259 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000905 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.917 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.2 MB.
-System memory in use after: 89.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2478.
-Total: 2.361700 ms (FindLiveObjects: 0.318800 ms CreateObjectMapping: 0.099200 ms MarkObjects: 1.927400 ms  DeleteObjects: 0.015100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.188138 seconds.
-  path: Assets/Tanjiro/Tanjiro.unity
-  artifactKey: Guid(e71d205c2fc986e4e89d96315716408e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Tanjiro.unity using Guid(e71d205c2fc986e4e89d96315716408e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c415f2c39d00d0c42f71ae7caadb3ee') in 0.013966 seconds
-  Import took 0.017271 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.369757 seconds.
-  path: Assets/Tanjiro/enemigos/movimiento_Ataque.cs
-  artifactKey: Guid(17304b1c65e19d14c880a73b33ae7902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/enemigos/movimiento_Ataque.cs using Guid(17304b1c65e19d14c880a73b33ae7902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb568e5ced5cec280fdb42dacfb5f56b') in 0.006836 seconds
-  Import took 0.010736 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000679 seconds.
-  path: Assets/Tanjiro/enemigos/movimiento_Ataque.cs
-  artifactKey: Guid(17304b1c65e19d14c880a73b33ae7902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/enemigos/movimiento_Ataque.cs using Guid(17304b1c65e19d14c880a73b33ae7902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb568e5ced5cec280fdb42dacfb5f56b') in 0.002517 seconds
-  Import took 0.005840 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.783324 seconds.
-  path: Assets/Tanjiro/enemigos/movimiento_nube.cs
-  artifactKey: Guid(2b9518d2f6068274dbebe94d18268ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/enemigos/movimiento_nube.cs using Guid(2b9518d2f6068274dbebe94d18268ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b07926cb2ec4c196af85efac570a128') in 0.009110 seconds
-  Import took 0.013461 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000547 seconds.
-  path: Assets/Tanjiro/enemigos/movimiento_nube.cs
-  artifactKey: Guid(2b9518d2f6068274dbebe94d18268ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/enemigos/movimiento_nube.cs using Guid(2b9518d2f6068274dbebe94d18268ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b07926cb2ec4c196af85efac570a128') in 0.002733 seconds
-  Import took 0.007934 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000944 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.935 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.5 MB.
-System memory in use after: 89.6 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2482.
-Total: 2.046500 ms (FindLiveObjects: 0.202900 ms CreateObjectMapping: 0.083600 ms MarkObjects: 1.744100 ms  DeleteObjects: 0.014900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.015541 seconds.
+  Time since last request: 11.546845 seconds.
   path: Assets/Tanjiro/Sprites
   artifactKey: Guid(dfef7ac1db05c1940813fb5dc934a461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Sprites using Guid(dfef7ac1db05c1940813fb5dc934a461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51c9af763676318bc8bfe6fc6ae37427') in 0.008824 seconds
-  Import took 0.013241 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000974 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.940 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.5 MB.
-System memory in use after: 89.6 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2486.
-Total: 2.010300 ms (FindLiveObjects: 0.241500 ms CreateObjectMapping: 0.076000 ms MarkObjects: 1.677600 ms  DeleteObjects: 0.014200 ms)
+Start importing Assets/Tanjiro/Sprites using Guid(dfef7ac1db05c1940813fb5dc934a461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312f07e1a6044d38b669a220e5314fab') in 0.007622 seconds
+  Import took 0.011754 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 21.905760 seconds.
-  path: Assets/Tanjiro/Anims/tanjiro2atack_15.controller
-  artifactKey: Guid(9bf608812a0117e499dc1a9b18732066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Anims/tanjiro2atack_15.controller using Guid(9bf608812a0117e499dc1a9b18732066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '160a3c95bffabf15c6b54768af87d130') in 0.019753 seconds
-  Import took 0.023965 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.137463 seconds.
-  path: Assets/Tanjiro/Anims/tanjiro_kun.controller
-  artifactKey: Guid(2de09937a9cffaa469efd67b13218cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Anims/tanjiro_kun.controller using Guid(2de09937a9cffaa469efd67b13218cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32f88bdbf7390d152c49f9df17d520c0') in 0.010365 seconds
-  Import took 0.014565 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001146 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.937 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.5 MB.
-System memory in use after: 89.6 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2490.
-Total: 2.160800 ms (FindLiveObjects: 0.322000 ms CreateObjectMapping: 0.108000 ms MarkObjects: 1.710100 ms  DeleteObjects: 0.019500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 58.608115 seconds.
-  path: Assets/Recursos_Carol/TANJIRO
-  artifactKey: Guid(779090a2cb969654dab069192b40249f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO using Guid(779090a2cb969654dab069192b40249f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d0cdb50f0f05f4c0e2137f78e5ff1a') in 0.011071 seconds
-  Import took 0.015533 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.037879 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.png
-  artifactKey: Guid(3d6452a5b5b66954187dc1c8930a60ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.png using Guid(3d6452a5b5b66954187dc1c8930a60ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86c028a77b95f262bfc453a1e5e01a7') in 0.055455 seconds
-  Import took 0.059244 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.011992 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.015050 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro_worry.png
-  artifactKey: Guid(98e1e26f5ffcce24dadabc4b8747715e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro_worry.png using Guid(98e1e26f5ffcce24dadabc4b8747715e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e0d228f22817000598702798dd90b7e') in 0.013002 seconds
-  Import took 0.016526 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006304 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009992 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro_cry.png
-  artifactKey: Guid(934b4c4ca50d60e499fc16027dc61983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro_cry.png using Guid(934b4c4ca50d60e499fc16027dc61983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf56b717cd6837f889ebedd33ddee334') in 0.012310 seconds
-  Import took 0.015574 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005823 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.008876 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro_enf.png
-  artifactKey: Guid(a28e739ee5b10da4582e740e8b88dac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro_enf.png using Guid(a28e739ee5b10da4582e740e8b88dac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fba5f6505302b68ec31839d5f6ac21') in 0.011589 seconds
-  Import took 0.015029 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007211 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.011070 seconds .
+  Time since last request: 0.043875 seconds.
+  path: Assets/Tanjiro/Sprites/enmu.png
+  artifactKey: Guid(1bfa94e007ba91941b2ff092039ba25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tanjiro/Sprites/enmu.png using Guid(1bfa94e007ba91941b2ff092039ba25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d0a291c313fc72de8443a155ded3a85') in 0.014456 seconds
+  Import took 0.018319 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000208 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro_2.png
-  artifactKey: Guid(c2833cfe7aa5bf74eb9e814c4cd73c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro_2.png using Guid(c2833cfe7aa5bf74eb9e814c4cd73c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25dddae58cd2f379da0f7f1c0a2e671') in 0.013747 seconds
-  Import took 0.018619 seconds .
+  path: Assets/Tanjiro/Sprites/enmu.psd
+  artifactKey: Guid(b068be5ce34570a4dbb06e0966a8aa7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tanjiro/Sprites/enmu.psd using Guid(b068be5ce34570a4dbb06e0966a8aa7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a69f14abb46089232d3ac6b2ea6c082') in 0.014572 seconds
+  Import took 0.017724 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006552 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009672 seconds .
+  Time since last request: 0.000217 seconds.
+  path: Assets/Tanjiro/Sprites/rana_ataque.png
+  artifactKey: Guid(f83639dbdcd7f6e42bc02aa60a874e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tanjiro/Sprites/rana_ataque.png using Guid(f83639dbdcd7f6e42bc02aa60a874e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700a06db7a6625d8f5ebe4395076d19d') in 0.014512 seconds
+  Import took 0.017644 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro_happy.png
-  artifactKey: Guid(e7c93671d0553ef4fa42930b997d9b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro_happy.png using Guid(e7c93671d0553ef4fa42930b997d9b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf7bdac65c46e862479e200aa6986ddd') in 0.012567 seconds
-  Import took 0.017339 seconds .
+  Time since last request: 0.000210 seconds.
+  path: Assets/Tanjiro/Sprites/tanjiro1.png
+  artifactKey: Guid(bf90c5e8f7dc2cf4e87d90d0d7a1f30c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tanjiro/Sprites/tanjiro1.png using Guid(bf90c5e8f7dc2cf4e87d90d0d7a1f30c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d66058f2e642043a84c0bad1df15e44') in 0.077197 seconds
+  Import took 0.081046 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005899 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009076 seconds .
+  Time since last request: 0.000200 seconds.
+  path: Assets/Tanjiro/Sprites/tanjiro2atack.png
+  artifactKey: Guid(e9d26c591277bb84f84fb758bb8b49b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tanjiro/Sprites/tanjiro2atack.png using Guid(e9d26c591277bb84f84fb758bb8b49b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff770d5e5ba82cdd190f47659f3f57f2') in 0.050453 seconds
+  Import took 0.053511 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.005916 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006212 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009421 seconds .
+  Time since last request: 0.000190 seconds.
+  path: Assets/Tanjiro/Sprites/pain_ranitas.png
+  artifactKey: Guid(e334be3d3120e0c47b76ebff55c8f421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tanjiro/Sprites/pain_ranitas.png using Guid(e334be3d3120e0c47b76ebff55c8f421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3f98207e4ab651ea434963bbe0ae54') in 0.041007 seconds
+  Import took 0.044162 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.010066 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.008127 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.012630 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004508 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006067 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009663 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008877 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006809 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010233 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004423 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006752 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009853 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005113 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006176 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009222 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005879 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006252 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009515 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008034 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006287 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009509 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005684 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006812 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010253 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006567 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006555 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009985 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006503 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006471 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009602 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009171 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006146 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009313 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006206 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005911 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009345 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006426 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006774 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010017 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005731 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006192 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009351 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009211 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007607 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.011240 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005334 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005994 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009149 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005578 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006168 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009290 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005274 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005718 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.008824 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005921 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006050 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009215 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008611 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006412 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009527 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005688 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006638 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009972 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005499 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006468 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009728 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005380 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006145 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009798 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009188 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006093 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009515 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007402 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006094 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009322 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006116 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006306 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009809 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005008 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006332 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009956 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008239 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005907 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009154 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007520 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006300 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009851 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006475 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006442 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009991 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004929 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005815 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009043 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009731 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005871 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009100 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006671 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005886 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009139 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006580 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006123 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009319 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005918 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006767 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010404 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006873 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006359 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009557 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.010021 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006184 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009462 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.010138 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.008131 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.011474 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005489 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005927 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009237 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007278 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007190 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010838 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008240 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006060 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009633 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005576 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006348 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010167 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005762 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006820 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010034 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006800 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006416 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009558 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008622 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006189 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009430 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007423 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006644 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009976 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005401 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005856 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.008987 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005853 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006303 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009645 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008499 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006982 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.011382 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004925 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006471 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009815 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005838 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006496 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009947 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009704 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006103 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009336 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005834 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006261 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009689 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005418 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006137 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009306 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005510 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006366 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009996 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009453 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006248 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010094 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005223 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006356 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009514 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005708 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006254 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009658 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005090 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006313 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009737 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009071 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006391 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009942 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005763 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005849 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009122 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006483 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006294 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009478 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005564 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005776 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.008906 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.010711 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005970 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009180 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006796 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005941 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009081 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006327 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006936 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010107 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004980 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006211 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009609 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008508 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006159 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009358 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006004 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007400 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010879 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006495 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006424 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009576 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005820 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005961 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009322 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009015 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006060 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009750 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005654 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006323 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009702 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004959 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006433 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009553 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005677 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006343 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009715 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.008502 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006485 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009642 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005658 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006421 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009879 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005083 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006025 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009119 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007876 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006161 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009914 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006642 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006332 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009518 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009553 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005837 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009046 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005765 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006379 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009601 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005785 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006780 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010688 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005689 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006996 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010980 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.010399 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006437 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009738 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005138 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006236 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009423 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005086 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005836 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009005 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006552 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007230 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010471 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009011 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005893 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009088 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006340 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006358 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009697 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005715 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006737 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010238 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005868 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007049 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.011841 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005628 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006710 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010309 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.009376 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007318 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010708 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005475 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006633 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010323 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007346 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010930 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.014263 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002649 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006103 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009702 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.010173 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005950 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009253 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007800 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006097 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009388 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.007390 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007806 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.012677 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005403 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.013626 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.018332 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020266 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007060 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010740 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.010523 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007148 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010603 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.013227 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006332 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009511 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003343 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007005 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010073 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004658 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006892 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.010082 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005479 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005854 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009375 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004765 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006439 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009848 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006523 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005952 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009419 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005681 seconds.
-  path: Assets/Recursos_Carol/TANJIRO/tanjiro.psd
-  artifactKey: Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Recursos_Carol/TANJIRO/tanjiro.psd using Guid(0aed23af0c1f1a14fbf2cdfa1846fb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006253 seconds
-  ERROR: Build asset version error: assets/recursos_carol/tanjiro/tanjiro.psd.meta in SourceAssetDB has modification time of '2022-05-25T10:20:51.3259428Z' while content on disk has modification time of '2022-05-25T10:43:40.9417399Z'
-  Import took 0.009435 seconds .
+  Time since last request: 11198.050160 seconds.
+  path: Assets/Inosuke/Scripts/AtaqueInosuke.cs
+  artifactKey: Guid(0eeb42dcee5f7374d892fa0c68532502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inosuke/Scripts/AtaqueInosuke.cs using Guid(0eeb42dcee5f7374d892fa0c68532502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e5983113f3d47723059ba0c836df867') in 0.054727 seconds
+  Import took 0.110242 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001053 seconds.
+Registered in 0.001476 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.901 seconds
+- Completed reload, in  0.978 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.5 MB.
-System memory in use after: 89.7 MB.
+System memory in use before: 89.3 MB.
+System memory in use after: 89.4 MB.
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2497.
-Total: 2.349900 ms (FindLiveObjects: 0.352400 ms CreateObjectMapping: 0.076900 ms MarkObjects: 1.904200 ms  DeleteObjects: 0.014700 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.951273 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1343563c9847fbd45b77b823a3b356fe') in 0.011947 seconds
-  Import took 0.015376 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.924706 seconds.
-  path: Assets/Tanjiro/Sprites/enmu.psd
-  artifactKey: Guid(b068be5ce34570a4dbb06e0966a8aa7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Tanjiro/Sprites/enmu.psd using Guid(b068be5ce34570a4dbb06e0966a8aa7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40bccea0f7748af03e8e583d8cd291ae') in 0.049384 seconds
-  Import took 0.054034 seconds .
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2601.
+Total: 2.210400 ms (FindLiveObjects: 0.250400 ms CreateObjectMapping: 0.076500 ms MarkObjects: 1.794300 ms  DeleteObjects: 0.087600 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

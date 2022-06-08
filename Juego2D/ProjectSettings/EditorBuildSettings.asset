@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/InGame1.unity
+    guid: f6725bfc58524304bb48e3bb03b13a26
+  - enabled: 1
+    path: Assets/Scenes/PegarAlTren.unity
+    guid: 84ddf447a85f1074eb1c5bec4de19515
+  - enabled: 1
+    path: Assets/Scenes/InGame2.unity
+    guid: 36f7e8a70f4337e409467a5e68fe71c2
+  - enabled: 1
+    path: Assets/Scenes/InGame3.unity
+    guid: c135200c43659d0459f9b0d86ab7c5c4
+  - enabled: 1
+    path: Assets/Scenes/CogerManzanas.unity
+    guid: 79f7e8132edb32645808793ea646857e
+  - enabled: 1
+    path: Assets/Scenes/Tanjiro.unity
+    guid: e71d205c2fc986e4e89d96315716408e
   m_configObjects: {}
