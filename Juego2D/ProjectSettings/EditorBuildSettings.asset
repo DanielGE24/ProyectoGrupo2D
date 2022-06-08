@@ -21,6 +21,18 @@ EditorBuildSettings:
     path: Assets/Scenes/CogerManzanas.unity
     guid: 79f7e8132edb32645808793ea646857e
   - enabled: 1
+    path: Assets/Scenes/InGame4.unity
+    guid: 52ed7a87663fa8042ad53d2fb3cfb757
+  - enabled: 1
+    path: Assets/Scenes/Rengoku.unity
+    guid: e26996137e596e143a973bd9fbd04919
+  - enabled: 1
+    path: Assets/Scenes/InGame5.unity
+    guid: 39cdc20939a3df04eaa427cc43711831
+  - enabled: 1
     path: Assets/Scenes/Tanjiro.unity
     guid: e71d205c2fc986e4e89d96315716408e
+  - enabled: 1
+    path: Assets/Scenes/InGame6.unity
+    guid: de03abc218bf1ee41ad62923e15741e2
   m_configObjects: {}

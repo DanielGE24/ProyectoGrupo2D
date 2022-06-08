@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 89d5345aba441e24c87106c7317b34be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8658503640600533318
+    second: akaza_sprites_0
+  - first:
+      213: 1010470954437016137
+    second: akaza_sprites_1
+  - first:
+      213: -2979210333066444779
+    second: akaza_sprites_2
+  - first:
+      213: 2406785106318173978
+    second: akaza_sprites_3
+  - first:
+      213: 3013015710985069501
+    second: akaza_sprites_4
+  - first:
+      213: 1914337187894994373
+    second: akaza_sprites_5
+  - first:
+      213: -6757568448007327661
+    second: akaza_sprites_6
+  - first:
+      213: 4914073208126602537
+    second: akaza_sprites_7
+  - first:
+      213: -2014354073746508728
+    second: akaza_sprites_8
+  - first:
+      213: -6371824190468512436
+    second: akaza_sprites_9
+  - first:
+      213: 414720093937075460
+    second: akaza_sprites_10
+  - first:
+      213: -1591632242957041073
+    second: akaza_sprites_11
+  - first:
+      213: -457300115094750685
+    second: akaza_sprites_12
+  - first:
+      213: -731161984229383343
+    second: akaza_sprites_13
+  - first:
+      213: -7524487464921930426
+    second: akaza_sprites_14
+  - first:
+      213: 6686913230586870769
+    second: akaza_sprites_15
+  - first:
+      213: 7546917531891666966
+    second: akaza_sprites_16
+  - first:
+      213: 7598288012653154004
+    second: akaza_sprites_17
+  - first:
+      213: 164103343748775240
+    second: akaza_sprites_18
+  - first:
+      213: 999595522392353585
+    second: akaza_sprites_19
+  - first:
+      213: 8417837417950500578
+    second: akaza_sprites_20
+  - first:
+      213: 371985928898469186
+    second: akaza_sprites_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akaza_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1986
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649db68bf2f292870800000000000000
+      internalID: 8658503640600533318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1986
+        width: 260
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a7117baf9e50e00800000000000000
+      internalID: 1010470954437016137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 2001
+        width: 261
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510c6629cf7b7a6d0800000000000000
+      internalID: -2979210333066444779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 2000
+        width: 176
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17abc07d4e966120800000000000000
+      internalID: 2406785106318173978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 2004
+        width: 138
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3afe353d160d920800000000000000
+      internalID: 3013015710985069501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2008
+        width: 217
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c52dc0a787119a10800000000000000
+      internalID: 1914337187894994373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 2010
+        width: 208
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350b227bc4b4832a0800000000000000
+      internalID: -6757568448007327661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1551
+        width: 264
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d76a20c8b423440800000000000000
+      internalID: 4914073208126602537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1619
+        width: 262
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8447a7674a39b04e0800000000000000
+      internalID: -2014354073746508728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1648
+        width: 230
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4522eb78abb297a0800000000000000
+      internalID: -6371824190468512436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1648
+        width: 400
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40506586ab161c500800000000000000
+      internalID: 414720093937075460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1641
+        width: 363
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42cc7968e269e9e0800000000000000
+      internalID: -1591632242957041073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 1646
+        width: 399
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a380cd7f757a9f0800000000000000
+      internalID: -457300115094750685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1304
+        width: 290
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5056366, y: 1.1018691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153ecb89c046ad5f0800000000000000
+      internalID: -731161984229383343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1298
+        width: 199
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56955755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645e2706486a39790800000000000000
+      internalID: -7524487464921930426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1298
+        width: 173
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb7df88720bccc50800000000000000
+      internalID: 6686913230586870769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 888
+        width: 230
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610129d82890cb860800000000000000
+      internalID: 7546917531891666966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 892
+        width: 189
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4decc47a0ba827960800000000000000
+      internalID: 7598288012653154004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 894
+        width: 253
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d79962f13074200800000000000000
+      internalID: 164103343748775240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 899
+        width: 255
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b644fd4d64fdd00800000000000000
+      internalID: 999595522392353585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 896
+        width: 210
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e65ee1388a22d470800000000000000
+      internalID: 8417837417950500578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaza_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 896
+        width: 256
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ddf614b3f892500800000000000000
+      internalID: 371985928898469186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,20 +9,29 @@ public class parallax : MonoBehaviour
 [SerializeField] float anchoImg;
 Vector3 posInicial;
 float resto;
+	void Awake()
+	{
+		
+	}
 
 	void Start () 
 	
 	{
 		posInicial = transform.position;
+		
 	}
 	
 	// Update is called once per frame
 	void Update ()
 	{
+		if(Time.time > 5)
+        {
+			resto = Mathf.Repeat(velocidad * (Time.time - 3), anchoImg);
+			transform.position = posInicial + resto * Vector3.left;
 
-	resto = Mathf.Repeat(velocidad * Time.time, anchoImg);
-	transform.position = posInicial + resto * Vector3.left;
+        }
 	
 	}
+
 }
 

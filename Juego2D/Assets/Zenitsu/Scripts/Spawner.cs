@@ -4,6 +4,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
 
+
 public class Spawner : MonoBehaviour
 {
     [SerializeField] GameObject[] rehenes;
@@ -53,6 +54,8 @@ public class Spawner : MonoBehaviour
             sumarTimer = false;
             player.anim.SetTrigger("Victoria");
             victoria.SetActive(true);
+            SceneManager.LoadScene(5);
+
         }
         else if (muertes.contadorMuertes >= 15)
         {
@@ -61,12 +64,13 @@ public class Spawner : MonoBehaviour
             sumarTimer = false;
             player.anim.SetTrigger("Derrota");
             derrota.SetActive(true);
+
         }
 
     }
     public void RetryButton()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(4);
     }
 
     public IEnumerator SpawnRehenes()

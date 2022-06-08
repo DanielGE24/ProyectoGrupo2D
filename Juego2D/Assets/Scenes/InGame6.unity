@@ -132,7 +132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 70887755}
-  - component: {fileID: 70887756}
+  - component: {fileID: 70887757}
   m_Layer: 0
   m_Name: SistemaDialogos
   m_TagString: Untagged
@@ -159,7 +159,7 @@ Transform:
   m_Father: {fileID: 78562240}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &70887756
+--- !u!114 &70887757
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -168,10 +168,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 70887754}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a0cd750d89a0e594d90e63b6001ff889, type: 3}
+  m_Script: {fileID: 11500000, guid: 651669000d5b1d648829281177528066, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   textos:
+  - "\xA1Agh mierda, estoy demasiado herido!"
+  - "\xA1Deja de huir!"
+  - "\xA1UF. Es demasiado r\xE1pido!"
+  - "Deber\xEDa volver a ver como est\xE1 Rengoku"
+  - ...
   - "...\xBFRengoku?"
   - Lo has hecho bien joven Kamado
   - Pero Rengoku...El demonio se ha escapado...
@@ -180,12 +185,6 @@ MonoBehaviour:
   - "Contin\xFAa en el camino de la luz y conf\xEDa en tus aliados"
   - "\xA1Rengoku-san!"
   - "\xA1SE\xD1OR RENGOKU!"
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
   - 
   - 
   - 

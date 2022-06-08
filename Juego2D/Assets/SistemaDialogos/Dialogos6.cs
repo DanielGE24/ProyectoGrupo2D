@@ -72,10 +72,10 @@ public class Dialogos6 : MonoBehaviour
 
         if (contadorFrases == 0) //Inicio
         {
-            marcoNombre1.SetActive(true);
+            marcoNombre2.SetActive(true);
             contadorFondos = 3;
-            contadorSprites1 = 0;
-            contadorNombres1 = 0;
+            contadorSprites1 = 31;
+            contadorNombres2 = 5;
 
 
 
@@ -84,52 +84,53 @@ public class Dialogos6 : MonoBehaviour
 
         if (contadorFrases == 1)
         {
-            marcoNombre2.SetActive(true);
-            contadorSprites2 = 17;
-            contadorNombres2 = 3;
+            marcoNombre1.SetActive(true);
+            contadorSprites1 = 1;
+            contadorNombres1 = 0;
 
 
         }
 
         if (contadorFrases == 2)
         {
-            contadorSprites1 = 0;
-            contadorNombres1 = 0;
+            contadorSprites2 = 31;
+            marcoNombre2.SetActive(false);
 
         }
 
         if (contadorFrases == 3)
         {
 
-            marcoNombre2.SetActive(true);
-            contadorNombres2 = 1;
-            contadorSprites2 = 5;
+            
+            
+            contadorSprites1 = 4;
         }
 
         if (contadorFrases == 4)
         {
-            contadorNombres2 = 2;
-            contadorSprites2 = 11;
+            marcoNombre1.SetActive(false);
+            contadorSprites1 = 31;
 
         }
 
         if (contadorFrases == 5)
         {
-            marcoNombre1.SetActive(false);
-            marcoNombre2.SetActive(false);
-            contadorSprites2 = 31;
+            marcoNombre1.SetActive(true);
+            
+            contadorSprites1 = 0;
         }
 
         if (contadorFrases == 6)
         {
-            contadorNombres2 = 2;
-            contadorSprites2 = 11;
+            marcoNombre2.SetActive(true);
+            contadorNombres2 = 3;
+            contadorSprites2 = 17;
         }
 
         if (contadorFrases == 7)
         {
-            contadorNombres2 = 1;
-            contadorSprites2 = 5;
+            
+            contadorSprites1 = 0;
         }
 
         if (contadorFrases == 8)
@@ -146,72 +147,28 @@ public class Dialogos6 : MonoBehaviour
 
         if (contadorFrases == 10)
         {
-            contadorNombres2 = 2;
-            contadorSprites2 = 11;
+          
         }
 
         if (contadorFrases == 11)
         {
-            marcoNombre1.SetActive(true);
-            contadorSprites1 = 4;
-            marcoNombre2.SetActive(false);
-            contadorSprites2 = 31;
-            contadorNombres1 = 0;
+            contadorNombres2 = 2;
+            contadorSprites2 = 11;
+
         }
 
         if (contadorFrases == 12)
         {
-
+            contadorNombres2 = 3;
+            contadorSprites2 = 5;
         }
 
         if (contadorFrases == 13)
         {
-            marcoNombre2.SetActive(true);
-            contadorSprites2 = 9;
-            contadorNombres2 = 1;
+            SceneManager.LoadScene(10);
         }
 
-        if (contadorFrases == 14)
-        {
-            contadorSprites2 = 11;
-            contadorNombres2 = 2;
-        }
-
-        if (contadorFrases == 15)
-        {
-            contadorSprites2 = 17;
-            contadorNombres2 = 3;
-        }
-
-        if (contadorFrases == 16)
-        {
-            marcoNombre2.SetActive(false);
-            marcoNombre1.SetActive(false);
-            contadorSprites1 = 31;
-            contadorSprites2 = 31;
-
-        }
-
-        if (contadorFrases == 17)
-        {
-            marcoNombre2.SetActive(true);
-            contadorSprites2 = 29;
-            contadorNombres2 = 5;
-
-        }
-        if (contadorFrases == 18)
-        {
-            marcoNombre1.SetActive(true);
-            contadorSprites1 = 1;
-            contadorSprites2 = 28;
-        }
-
-        if (contadorFrases == 19)
-        {
-            //Iniciar juego del gonpachiro contra el malo
-        }
-
-
+     
 
 
 

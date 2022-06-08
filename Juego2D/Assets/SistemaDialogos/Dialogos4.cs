@@ -244,7 +244,7 @@ public class Dialogos4 : MonoBehaviour
 
         if (contadorFrases == 26)
         {
-            //Cargar minijuego de rengoku
+            SceneManager.LoadScene(6);
         }
 
         

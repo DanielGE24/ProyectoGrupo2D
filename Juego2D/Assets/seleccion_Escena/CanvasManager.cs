@@ -16,18 +16,11 @@ public class CanvasManager : MonoBehaviour
     {
         
     }
-    public void Personaje1()
-    {
-        SceneManager.LoadScene(0);
-    }
     public void Personaje2()
     {
         SceneManager.LoadScene(1);
     }
-    public void Personaje3()
-    {
-        SceneManager.LoadScene(2);
-    }
+
 
     public void RetryButton()
     {

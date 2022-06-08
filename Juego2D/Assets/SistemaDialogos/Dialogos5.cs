@@ -207,7 +207,7 @@ public class Dialogos5 : MonoBehaviour
 
         if (contadorFrases == 19)
         {
-           //Iniciar juego del gonpachiro contra el malo
+            SceneManager.LoadScene(8);
         }
 
        
