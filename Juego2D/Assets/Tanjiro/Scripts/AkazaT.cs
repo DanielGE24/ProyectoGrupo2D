@@ -43,11 +43,12 @@ public class AkazaT : MonoBehaviour
             StartCoroutine(RecibirDanho());
         }
 
-        if (vidas == 0)
+        if (vidas <= 0)
         {
 
             anim.SetTrigger("Muerte");
             StopAllCoroutines();
+            SceneManager.LoadScene(10);
         }
     }
     IEnumerator AtaqueE()
