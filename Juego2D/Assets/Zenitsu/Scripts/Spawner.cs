@@ -47,14 +47,14 @@ public class Spawner : MonoBehaviour
             textoContador.text = "X " + contador.contador;
         }
 
-        if (tiempo >= 60 && muertes.contadorMuertes <= 15)
+        if (tiempo >= 50 && muertes.contadorMuertes <= 15)
         {
             StopAllCoroutines();
             player.movimiento = false;
             sumarTimer = false;
             player.anim.SetTrigger("Victoria");
             victoria.SetActive(true);
-            SceneManager.LoadScene(5);
+            SceneManager.LoadScene(6);
 
         }
         else if (muertes.contadorMuertes >= 15)
@@ -70,7 +70,7 @@ public class Spawner : MonoBehaviour
     }
     public void RetryButton()
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(5);
     }
 
     public IEnumerator SpawnRehenes()

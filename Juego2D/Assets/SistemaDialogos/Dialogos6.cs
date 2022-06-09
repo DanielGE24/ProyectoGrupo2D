@@ -165,7 +165,7 @@ public class Dialogos6 : MonoBehaviour
 
         if (contadorFrases == 13)
         {
-            SceneManager.LoadScene(10);
+            SceneManager.LoadScene(11);
         }
 
      

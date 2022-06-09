@@ -244,7 +244,7 @@ public class Dialogos4 : MonoBehaviour
 
         if (contadorFrases == 26)
         {
-            SceneManager.LoadScene(6);
+            SceneManager.LoadScene(7);
         }
 
         

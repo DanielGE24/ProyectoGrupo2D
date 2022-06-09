@@ -88,7 +88,7 @@ public class Dialogosaaa : MonoBehaviour
 
         if (contadorFrases == 3) //Empieza minijuego Inosuke
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(2);
         }
 
         if (contadorFrases == 4)

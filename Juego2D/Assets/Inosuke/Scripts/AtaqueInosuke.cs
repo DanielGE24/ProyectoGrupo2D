@@ -108,7 +108,7 @@ public class AtaqueInosuke : MonoBehaviour
     {
         yield return new WaitForSeconds(1);
 
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(3);
     }
 }
 

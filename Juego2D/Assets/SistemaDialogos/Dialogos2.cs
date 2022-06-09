@@ -128,7 +128,7 @@ public class Dialogos2 : MonoBehaviour
 
         if (contadorFrases == 9)
         {
-            SceneManager.LoadScene(3);
+            SceneManager.LoadScene(4);
         }
 
 

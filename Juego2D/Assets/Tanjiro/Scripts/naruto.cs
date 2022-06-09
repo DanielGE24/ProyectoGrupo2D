@@ -44,7 +44,7 @@ public class naruto : MonoBehaviour
         if (vidasScr.vidas==0)
         {
             movimiento = false;
-            SceneManager.LoadScene(7);
+            SceneManager.LoadScene(8);
 
         }
         estadoActual = anim.GetCurrentAnimatorStateInfo(0);

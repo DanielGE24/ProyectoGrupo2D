@@ -207,7 +207,7 @@ public class Dialogos5 : MonoBehaviour
 
         if (contadorFrases == 19)
         {
-            SceneManager.LoadScene(8);
+            SceneManager.LoadScene(9);
         }
 
        
