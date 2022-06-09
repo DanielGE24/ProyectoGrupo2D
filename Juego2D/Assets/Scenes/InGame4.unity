@@ -755,33 +755,35 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textos:
-  - Uf. Uf. Uf. Por poco lo logramos
+  - Uf. Uf. Uf. Por poco lo logramos.
   - "\xA1Pero hemos conseguido salvar a todos!"
   - "\xA1Mmmmh!"
-  - "Vamos Nezuko, reun\xE1monos con los dem\xE1s"
+  - "Vamos Nezuko, reun\xE1monos con los dem\xE1s."
   - 
-  - Mientras...En otra parte del tren...
+  - Zenitsu y Nezuko se quedaron dormidos debido al agotamiento.
+  - Y... Mientras tanto...En otra parte del tren...
   - "\xBFQu\xE9 ha pasado?"
-  - Parece que el tren se ha chocado con algo
+  - Parece que el tren se ha chocado con algo que lo ha hecho parar.
   - "\xBFAlgo tan fuerte como la bestia de metal?"
   - ...
   - Cuidado joven Tanjiro.
-  - Una gran presencia se hace denotar.
+  - He empezado a sentir una gran presencia en el ambiente.
   - "\xA1MUESTRATE DEMONIO!"
   - ...
   - ........
   - ..............
   - "\xBFQu\xE9 tenemos aqui?"
-  - "Un peque\xF1o ej\xE9rcito de matademonios \xBFuh?"
-  - Oh, y tu debes de ser Rengoku, el Pilar del Fuego
+  - "Un peque\xF1o ej\xE9rcito de matademonios, \xBFHuh?"
+  - Oh, y tu debes de ser Rengoku, el Pilar de las Llamas.
   - "\xA1Un enemigo!"
-  - Supongo que el gran Rengoku debe conocerme
-  - Ya sabes, aquel famoso demonio que ha tomado incontables vidas
-  - "En fin Rengoku, supongo que hasta aqu\xED ha llegado tu vida."
-  - Huye y salva tu vida, o defiende a estos miserables humanos
+  - Supongo que el gran Rengoku debe conocerme. Soy Akaza, tercera luna superior,
+    un placer.
+  - Ya sabes, aquel famoso demonio que ha tomado las vidas de otros pilares.
+  - "Y la tuya ser\xE1 la siguiente. A no ser que te conviertas en demonio y te vuelvas
+    inmortal como yo."
+  - Ven conmigo y salva tu vida, Kyojuro, o defiende a estos miserables humanos...
   - Y muere.
   - Akaza...Maldito demonio...
-  - 
   - 
   - 
   - 
@@ -875,8 +877,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.2352, y: 0}
-  m_SizeDelta: {x: 569.9906, y: 50}
+  m_AnchoredPosition: {x: -0.000012875, y: 61}
+  m_SizeDelta: {x: 779.0358, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1376635434
 MonoBehaviour:
@@ -928,12 +930,12 @@ MonoBehaviour:
   m_fontSize: 36
   m_fontSizeBase: 36
   m_fontWeight: 400
-  m_enableAutoSizing: 1
-  m_fontSizeMin: 18
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 36
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -1337,8 +1339,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 423.56738, y: -8.2039}
-  m_SizeDelta: {x: 795.7698, y: 146.5058}
+  m_AnchoredPosition: {x: 424.13992, y: -27.0985}
+  m_SizeDelta: {x: 849.5906, y: 184.295}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1948910928
 MonoBehaviour:
@@ -1353,7 +1355,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9716981, g: 0.83527106, b: 0.5729352, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1589,7 +1591,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 693, y: 19}
+  m_AnchoredPosition: {x: 675, y: 19}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2090814510

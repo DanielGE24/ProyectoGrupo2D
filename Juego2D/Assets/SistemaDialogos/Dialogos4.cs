@@ -91,8 +91,9 @@ public class Dialogos4 : MonoBehaviour
 
         if (contadorFrases == 2)
         {
-            contadorNombres2 = 4;
-            contadorSprites2 = 22;
+            marcoNombre1.SetActive(true);
+            contadorNombres1 = 4;
+            contadorSprites1 = 22;
 
         }
 
@@ -105,7 +106,9 @@ public class Dialogos4 : MonoBehaviour
 
         if (contadorFrases == 4)
         {
+            contadorSprites1 = 31;
             contadorSprites2 = 31;
+            marcoNombre1.SetActive(false);
             marcoNombre2.SetActive(false);
             marcoTexto.SetActive(false);
             
@@ -119,6 +122,12 @@ public class Dialogos4 : MonoBehaviour
 
         if (contadorFrases == 6)
         {
+           
+            
+        }
+
+        if (contadorFrases == 7)
+        {
             marcoNombre1.SetActive(true);
             
             contadorNombres1 = 0;
@@ -128,20 +137,20 @@ public class Dialogos4 : MonoBehaviour
 
         }
 
-        if (contadorFrases == 7)
+        if (contadorFrases == 8)
         {
             marcoNombre2.SetActive(true);
             contadorSprites2 = 20;
             contadorNombres2 = 3;
         }
 
-        if (contadorFrases == 8)
+        if (contadorFrases == 9)
         {
             contadorSprites2 = 6;
             contadorNombres2 = 1;
         }
 
-        if (contadorFrases == 9) //Todo en negro, ...
+        if (contadorFrases == 10) //Todo en negro, ...
         {
             
             marcoNombre2.SetActive(false);
@@ -152,32 +161,28 @@ public class Dialogos4 : MonoBehaviour
         }
 
 
-        if (contadorFrases == 10)
+        if (contadorFrases == 11)
         {
+            marcoNombre2.SetActive(true);
             contadorSprites2 = 20;
             contadorNombres2 = 3;
         }
 
-        if (contadorFrases == 11)
+        if (contadorFrases == 12)
         {
             
         }
 
-        if (contadorFrases == 12)
+        if (contadorFrases == 13)
         {
             contadorSprites2 = 6;
             contadorNombres2 = 1;
         }
 
-        if (contadorFrases == 13)
+        if (contadorFrases == 14)
         {
             marcoNombre2.SetActive(false);
             contadorSprites2 = 31;
-        }
-
-        if (contadorFrases == 14)
-        {
-
         }
 
         if (contadorFrases == 15)
@@ -187,22 +192,27 @@ public class Dialogos4 : MonoBehaviour
 
         if (contadorFrases == 16)
         {
+
+        }
+
+        if (contadorFrases == 17)
+        {
             marcoNombre2.SetActive(true);
             contadorNombres2 = 7;
             contadorSprites2 = 28;
         }
 
-        if (contadorFrases == 17)
+        if (contadorFrases == 18)
         {
 
            
         }
-        if (contadorFrases == 18)
+        if (contadorFrases == 19)
         {
             contadorSprites2 = 29;
         }
 
-        if (contadorFrases == 19)
+        if (contadorFrases == 20)
         {
             marcoNombre1.SetActive(true);
             contadorNombres1 = 0;
@@ -211,38 +221,38 @@ public class Dialogos4 : MonoBehaviour
 
         }
 
-        if (contadorFrases == 20)
-        {
-            contadorSprites2 = 27;
-        }
-
         if (contadorFrases == 21)
         {
-
+            contadorSprites2 = 27;
         }
 
         if (contadorFrases == 22)
         {
-            contadorSprites2 = 27;
+            contadorNombres2 = 5;
         }
 
         if (contadorFrases == 23)
         {
-            
+            contadorSprites2 = 27;
         }
 
         if (contadorFrases == 24)
         {
-            contadorSprites2 = 26;
+            
         }
 
         if (contadorFrases == 25)
+        {
+            contadorSprites2 = 26;
+        }
+
+        if (contadorFrases == 26)
         {
             contadorSprites2 = 20;
             contadorNombres2 = 3;
         }
 
-        if (contadorFrases == 26)
+        if (contadorFrases == 27)
         {
             SceneManager.LoadScene(7);
         }

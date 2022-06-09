@@ -73,6 +73,7 @@ public class Dialogos6 : MonoBehaviour
         if (contadorFrases == 0) //Inicio
         {
             marcoNombre2.SetActive(true);
+            contadorSprites2 = 28;
             contadorFondos = 3;
             contadorSprites1 = 31;
             contadorNombres2 = 5;

@@ -264,8 +264,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 423.56738, y: -8.2039}
-  m_SizeDelta: {x: 795.7698, y: 146.5058}
+  m_AnchoredPosition: {x: 423.56738, y: -13.459396}
+  m_SizeDelta: {x: 819.4197, y: 157.0168}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &64252690
 MonoBehaviour:
@@ -280,7 +280,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.972549, g: 0.8352941, b: 0.57254905, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -485,22 +485,22 @@ MonoBehaviour:
   - "\xA1RENGOKU!"
   - "\xA1NOOOOOO!"
   - ...
-  - "\xA1Se\xF1or ojos Saltones!"
-  - "\xA1Rengoku-san....!"
+  - "\xA1Se\xF1or ojos saltones!"
+  - "\xA1Se\xF1or Rengoku...!"
   - ...
   - "No os preocupeis j\xF3venes."
-  - Estoy bien
-  - "Acabad con el demonio ahora que est\xE1 d\xE9bil"
-  - "Estar\xE9 aqu\xED esperandoos"
-  - "\xA1Pero Rengoku........!"
-  - "Chicos, qued\xE1os con Rengoku"
-  - "Ser\xE9 yo mismo quien tome su cabeza"
-  - No mueras Gonpachiro
+  - Estoy bien.
+  - Debeis poneros a salvo y proteger a los pasajeros.
+  - No os preocupeis por mi...
+  - "\xA1Pero Rengoku...!"
+  - "Chicos, qued\xE1os con Rengoku, aseguraos de que no muera."
+  - "Est\xE1 amaneciendo, retrasar\xE9 al demonio para que el sol lo mate."
+  - No mueras Gonpachiro.
   - Pero, pero Tanjiro...
-  - "Conf\xEDo en t\xED, joven."
+  - Joven Kamado... No vayas... Por favor...
   - ...
   - "\xA1Mierda, ya se est\xE1 poniendo el sol!"
-  - "\xA1NO HUYAS DEMONIO!"
+  - "\xA1NO HUYAS DEMONIO! \xA1ERES UN COBARDE!"
   - 
   nombres:
   - Tanjiro
@@ -1250,7 +1250,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1331,8 +1331,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.2352, y: 0}
-  m_SizeDelta: {x: 569.9906, y: 50}
+  m_AnchoredPosition: {x: -7, y: 53.508}
+  m_SizeDelta: {x: 780.2104, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1717917316
 MonoBehaviour:
@@ -1354,7 +1354,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Estoy al borde del suicidio y esto no es una broma ayuda por favor
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 16353a650a064094aa7adfdf89e651a9, type: 2}
   m_sharedMaterial: {fileID: -2981291914887706908, guid: 16353a650a064094aa7adfdf89e651a9, type: 2}
@@ -1388,8 +1388,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0

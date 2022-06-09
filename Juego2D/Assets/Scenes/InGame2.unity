@@ -1043,8 +1043,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.2352, y: 0}
-  m_SizeDelta: {x: 569.9906, y: 50}
+  m_AnchoredPosition: {x: -1.0313, y: 43.6}
+  m_SizeDelta: {x: 786.5281, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1185228883
 MonoBehaviour:
@@ -1066,7 +1066,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Estoy al borde del suicidio y esto no es una broma ayuda por favor
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 16353a650a064094aa7adfdf89e651a9, type: 2}
   m_sharedMaterial: {fileID: -2981291914887706908, guid: 16353a650a064094aa7adfdf89e651a9, type: 2}
@@ -1100,8 +1100,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -1371,7 +1371,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.972549, g: 0.8352941, b: 0.57254905, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1476,15 +1476,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textos:
-  - Menos mal que hemos llegado al tren...
-  - AAAARGH. MALDITA BESTIA DE METAL
+  - "Menos mal que hemos llegado al tren... Sino estar\xEDamos en problemas."
+  - "\xA1AAAARGH! \xA1MALDITA BESTIA DE METAL!"
   - "\xA1ES RAPID\xCDSIMA! \xA1ESTAMOS EN SUS ENTRA\xD1AS!"
   - Inosuke deja de gritar...
   - Estas asustando a los pasajeros...
   - Chicos. Busquemos al Pilar de las Llamas.
+  - 'UMAI '
   - UMAI UMAI
-  - DELICIOSO
-  - "BUEN\xCDSIMO"
+  - UMAI
   - 
   nombres:
   - Tanjiro

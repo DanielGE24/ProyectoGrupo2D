@@ -224,8 +224,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 423.56738, y: -8.2039}
-  m_SizeDelta: {x: 795.7698, y: 146.5058}
+  m_AnchoredPosition: {x: 431.64426, y: -24.452919}
+  m_SizeDelta: {x: 838.8182, y: 179.0038}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &74661279
 MonoBehaviour:
@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.972549, g: 0.8352941, b: 0.57254905, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -466,13 +466,13 @@ MonoBehaviour:
   m_text: Tanjiro
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a7ad40a568476c94b911a192b51bddd3, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8109557096425705491, guid: a7ad40a568476c94b911a192b51bddd3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4278190080
   m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -707,8 +707,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.2352, y: 0}
-  m_SizeDelta: {x: 569.9906, y: 50}
+  m_AnchoredPosition: {x: -8.0271, y: 57}
+  m_SizeDelta: {x: 782.5431, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1059307730
 MonoBehaviour:
@@ -760,12 +760,12 @@ MonoBehaviour:
   m_fontSize: 36
   m_fontSizeBase: 36
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -932,26 +932,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textos:
   - "D-disculpe...\xBFSe\xF1or Rengoku?"
-  - "\xA1UMAI. DELICIOSO. BUEN\xCDSIMO!"
-  - "E-encantando se\xF1or Rengoku...Soy Tanjiro"
+  - "\xA1UMAI!"
+  - "E-encantando se\xF1or Rengoku...Soy Tanjiro Kamado."
   - "\xA1Encantado Tanjiro!"
-  - "\xA1Supongo que vosotros sois los cazademonios novatos que me han enviado como
-    apoyo!"
+  - "\xBFSois los cazademonios novatos que me han enviado?"
   - "\xA1Un placer y gracias por vuestro apoyo!"
   - "Gracias se\xF1or Rengoku, un placer estar con usted."
-  - "B-buenas...Encantado se\xF1or...Soy zenitsu"
+  - "B-buenas...Encantado se\xF1or Rengoku...Soy Zenitsu Agatsuma"
   - "\xA1SE\xD1OR OJOS SALTONES!"
-  - "Inosuke. Comp\xF3rtate. Estas frente al Pilar de las llamas, Rengoku Kyojuro"
+  - "Inosuke. Comp\xF3rtate. Estas frente al Pilar de las Llamas, Rengoku Kyojuro."
   - "Bueno chicos, os veo con energ\xEDas. Pero recordad:"
-  - "Hab\xE9is venido aqu\xED para detener a un demonio muy peligroso"
+  - "Hab\xE9is venido aqu\xED para detener a un demonio muy peligroso."
   - "Muchas vidas est\xE1n en juego, asi que es importante que est\xE9is atentos
-    y concentrados"
-  - "La verdad, podr\xEDa encargarme yo solo de este demonio, pero hay un problema"
+    y concentrados."
+  - "La verdad, podr\xEDa encargarme yo solo de este demonio, pero hay un problema..."
   - El demonio parece ser lo suficientemente fuerte como para esconder su olor y
-    su presencia
+    su presencia.
   - "No voy a poder enfrentarme a \xE9l mientras protejo a los pasajeros, necesito
-    vuestra ayuda"
-  - "As\xED que---"
+    vuestra ayuda."
+  - "As\xED qu-..."
   - "\xA1\xA1\xA1BOOOOOOOMMMMM!!!!"
   - 
   - ................
@@ -962,8 +961,8 @@ MonoBehaviour:
   - ..........
   - Mmmmmhh
   - "\xA1Nezuko! \xBFEst\xE1s herida?"
-  - "Parece que el tren ha parado por una colisi\xF3n"
-  - "Nezuko, deber\xEDamos ayudar a los pasajeros heridos y atrapados"
+  - Parece que algo ha colisionado con el tren.
+  - "Nezuko, deber\xEDamos ayudar a los pasajeros heridos y atrapados."
   - "\xA1Vamos!"
   - 
   nombres:

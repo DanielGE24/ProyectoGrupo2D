@@ -122,6 +122,7 @@ public class Dialogos5 : MonoBehaviour
 
         if (contadorFrases == 6)
         {
+            marcoNombre2.SetActive(true);
             contadorNombres2 = 3;
             contadorSprites2 = 17;
         }

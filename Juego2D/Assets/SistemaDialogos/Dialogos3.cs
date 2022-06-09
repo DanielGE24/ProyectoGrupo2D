@@ -128,7 +128,7 @@ public class Dialogos3 : MonoBehaviour
         if (contadorFrases == 8)
         {
             contadorSprites2 = 7;
-            contadorNombres2 = 3;
+            contadorNombres2 = 1;
         }
 
         if (contadorFrases == 9)
