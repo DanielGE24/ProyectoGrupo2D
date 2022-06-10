@@ -36,3 +36,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Juego2D/Logs/AssetImportWorker0-prev.log
+Juego2D/Logs/AssetImportWorker0.log
+Juego2D/Logs/shadercompiler-AssetImportWorker0.log
+Juego2D/Logs/shadercompiler-UnityShaderCompiler.exe0.log

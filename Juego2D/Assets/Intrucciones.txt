@@ -1,0 +1,25 @@
+Importante: El juego va en 4:3
+
+----HISTORIA----
+-En este juego, te encuentras en la piel de Kamado Tanjiro, un cazademonios novato que ha cogido un tren junto a sus dos amigos cazademonios, Zenitsu e Inosuke, en busca del Pilar de las Llamas Rengoku. Durante su aventura, un demonio llamado Akaza atacará el tren y Tanjiro y sus amigos tendrán que pararlo.
+
+
+----INSTRUCCIONES----
+-E, tras cargar vídeo, para avanzar los diálogos
+
+-(Primer Minijuego - Inosuke) Pulsar espacio para llegar a 100 golpes en menos de 15 segundos.
+
+-(Segundo Minijuego - Zenitsu) A,S para moverse a izquierda y derecha respectivamente, shift para hacer un dash y aumentar tu velocidad.
+
+-(Tercer Minijuego - Rengoku) W para Saltar, D para esquivar ataques, click izquierdo para atacar.(En este juego es imposible ganar).
+
+-(Cuarto Minijuego - Tanjiro) W para Saltar, D para esquivar ataques, click izquierdo para atacar.(El enemigo tiene 15 vidas)
+
+----ACLARACIONES----
+Los dibujos de los personajes en las escenas de diálogos están hechos al 100% por Carol, tanto dibujo como coloreado.
+
+La música del Menú y la de las dos últimas escenas están hechas por Dani.
+
+Los videos los han recortado Dani y Rubén
+
+
