@@ -12,14 +12,14 @@ public class Vidas : MonoBehaviour
     TextMeshProUGUI textoVidas;
     Animator anim;
     SpriteRenderer sR;
-    PolygonCollider2D coll;
+    BoxCollider2D coll;
     Rigidbody2D rb;
     // Start is called before the first frame update
     void Start()
     {
         anim = GetComponent<Animator>();
         textoVidas = vidasxd.GetComponent<TextMeshProUGUI>();
-        coll = GetComponent<PolygonCollider2D>();
+        coll = GetComponent<BoxCollider2D>();
         rb = GetComponent<Rigidbody2D>();
         textoVidas.text = "X" + vidas;
         sR = GetComponent<SpriteRenderer>();

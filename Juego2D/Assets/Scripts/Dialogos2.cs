@@ -75,7 +75,7 @@ public class Dialogos2 : MonoBehaviour
 
         if (contadorFrases == 1)
         {
-            marcoNombre1.SetActive(true);
+            
             contadorSprites2 = 6;
             contadorNombres2 = 1;
 

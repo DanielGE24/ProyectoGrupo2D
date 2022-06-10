@@ -29,7 +29,7 @@ public class AkazaT : MonoBehaviour
         if (vidasScr.vidas == 0)
         {
             StopCoroutine(llamadaAtaque);
-            SceneManager.LoadScene(10);
+           
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)

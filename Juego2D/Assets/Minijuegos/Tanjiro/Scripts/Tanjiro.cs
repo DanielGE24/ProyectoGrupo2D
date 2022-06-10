@@ -18,7 +18,7 @@ public class Tanjiro : MonoBehaviour
     [SerializeField] GameObject AtaquePrefab;
     [SerializeField] GameObject posicionAtaque;
     [SerializeField] GameObject boton;
-    PolygonCollider2D pc;
+
     [SerializeField] GameObject Muerte;
     BoxCollider2D bc;
     bool movimiento;
@@ -34,7 +34,7 @@ public class Tanjiro : MonoBehaviour
         vidasScr = GetComponent<Vidas>();
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
-        pc = GetComponent<PolygonCollider2D>();
+        bc = GetComponent<BoxCollider2D>();
         movimiento = false;
         StartCoroutine(EsperaMovimiento());
     }
@@ -45,7 +45,7 @@ public class Tanjiro : MonoBehaviour
         if (vidasScr.vidas == 0)
         {
             movimiento = false;
-            SceneManager.LoadScene(7);
+            boton.SetActive(true);
 
         }
         estadoActual = anim.GetCurrentAnimatorStateInfo(0);
@@ -70,14 +70,14 @@ public class Tanjiro : MonoBehaviour
         {
             anim.SetTrigger("Dash");
             coolDown = 1;
-            pc.enabled = false;
+            bc.enabled = false;
             rb.isKinematic = true;
 
 
         }
         if (Input.GetKeyUp(KeyCode.D))
         {
-            pc.enabled = true;
+            bc.enabled = true;
             rb.isKinematic = false;
         }
 

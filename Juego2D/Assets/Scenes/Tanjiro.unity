@@ -1494,7 +1494,7 @@ MonoBehaviour:
   puntos: 0
   AtaquePrefab: {fileID: 1640228254135169091, guid: cc661a4ad8987f4498b4a33a25ccd7f3, type: 3}
   posicionAtaque: {fileID: 1832030986}
-  boton: {fileID: 0}
+  boton: {fileID: 841117170}
   Muerte: {fileID: 923892150}
   textoCuentaAtras: {fileID: 6676871218589390364}
   CuentaAtras: {fileID: 6676871218706922093}
